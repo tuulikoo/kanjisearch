@@ -1,0 +1,72 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <title>Kanji Search</title>
+    <link rel="stylesheet" href="styles.css">
+</head>
+
+<body>
+    <div class="topcontainer">
+        <div class="header-container">
+            <h1>Kanji Search</h1>
+            <p>Enter the number of strokes to search for kanji:</p>
+            <label for="strokes">Strokes:</label>
+            <input type="number" id="strokes" name="strokes" value="0">
+            <!-- Remove the button -->
+            <p id="result"></p>
+        </div>
+    </div>
+
+    <script type="module" src="./pkg/kanjisearch.js"></script>
+    <script type="module">
+        import init, { search_kanji_by_strokes } from './pkg/kanjisearch.js';
+
+        async function run() {
+            console.log("Initializing WebAssembly module...");
+            await init();
+            console.log("WebAssembly module initialized successfully.");
+
+            const strokesInput = document.getElementById('strokes');
+            const resultElement = document.getElementById('result');
+
+            if (!strokesInput || !resultElement) {
+                console.error('Error: Could not find all necessary elements.');
+                return;
+            }
+
+            strokesInput.addEventListener('input', async () => {
+                const strokes = parseInt(strokesInput.value);
+                console.log('Strokes:', strokes);
+
+                try {
+                    const result = await search_kanji_by_strokes(strokes);
+                    resultElement.innerHTML = '';
+
+                    result.forEach(entry => {
+                        const kanjiData = JSON.parse(entry);
+                        resultElement.innerHTML += `
+                            <p><strong>Kanji: ${kanjiData.kanji}</strong></p>
+                            <p>On within Joyo: ${kanjiData.onreading}</p>
+                            <p>Kun within Joyo: ${kanjiData.kunreading}</p>
+                            <br>
+                        `;
+                    });
+
+                    if (result.length === 0) {
+                        resultElement.innerHTML = 'No kanji found with the given number of strokes.';
+                    }
+                } catch (error) {
+                    console.error('Error calling search_kanji_by_strokes:', error);
+                }
+            });
+        }
+
+        run();
+    </script>
+</body>
+
+</html>

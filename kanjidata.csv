@@ -1,0 +1,2137 @@
+﻿id,kanji,strokes,onreading,kunreading
+1,亜,7,a,-
+2,哀,9,ai,"awa(re), awa(remu)"
+3,挨,10,ai,-
+4,愛,13,ai,-
+5,曖,17,ai,-
+6,悪,11,"aku, 	o",waru(i)
+7,握,12,aku,nigi(ru)
+8,圧,5,atsu,-
+9,扱,6,-,atsuka(u)
+10,宛,8,-,a(teru)
+11,嵐,12,-,arashi
+12,安,6,an,yasu(i)
+13,案,10,an,-
+14,暗,13,an,kura(i)
+15,以,5,i,-
+16,衣,6,i,koromo
+17,位,7,i,kurai
+18,囲,7,i,"kako(mu), kako(u)"
+19,医,7,i,-
+20,依,8,"i, [e	]",-
+21,委,8,i,yuda(neru)
+22,威,9,i,-
+23,為,9,i,-
+24,畏,9,i,oso(reru)
+25,胃,9,i,-
+26,尉,11,i,-
+27,異,11,i,koto(naru)
+28,移,11,i,"utsu(ru), utsu(su)"
+29,萎,11,i,na(eru)
+30,偉,12,i,era(i)
+31,椅,12,i,-
+32,彙,13,i,-
+33,意,13,i,-
+34,違,13,i,"chiga(u), chiga(eru)"
+35,維,14,i,-
+36,慰,15,i,"nagusa(meru), nagusa(mu)"
+37,遺,15,"i, [yui]",-
+38,緯,16,i,-
+39,域,11,iki,-
+40,育,8,iku,"soda(tsu), soda(teru), haguku(mu)"
+41,一,1,"ichi, 	itsu","hito, hito(tsu)"
+42,壱,7,ichi,-
+43,逸,11,itsu,-
+44,茨,9,-,[ibara]
+45,芋,6,-,imo
+46,引,4,in,"hi(ku), hi(keru)"
+47,印,6,in,shirushi
+48,因,6,in,yo(ru)
+49,咽,9,in,-
+50,姻,9,in,-
+51,員,10,in,-
+52,院,10,in,-
+53,淫,11,in,mida(ra)
+54,陰,11,in,"kage, kage(ru)"
+55,飲,12,in,no(mu)
+56,隠,14,in,"kaku(su), kaku(reru)"
+57,韻,19,in,-
+58,右,5,"u, 	yuu",migi
+59,宇,6,u,-
+60,羽,6,u,"ha, hane"
+61,雨,8,u,"ame, [ama]"
+62,唄,10,-,[uta]
+63,鬱,29,utsu,-
+64,畝,10,-,une
+65,浦,10,-,ura
+66,運,12,un,hako(bu)
+67,雲,12,un,kumo
+68,永,5,ei,naga(i)
+69,泳,8,ei,oyo(gu)
+70,英,8,ei,-
+71,映,9,ei,"utsu(ru), utsu(su), ha(eru)"
+72,栄,9,ei,"saka(eru), ha(e), ha(eru)"
+73,営,12,ei,itona(mu)
+74,詠,12,ei,yo(mu)
+75,影,15,ei,kage
+76,鋭,15,ei,surudo(i)
+77,衛,16,ei,-
+78,易,8,"i, 	eki",yasa(shii)
+79,疫,9,"eki, [yaku]",-
+80,益,10,"eki, [yaku]",-
+81,液,11,eki,-
+82,駅,14,eki,-
+83,悦,10,etsu,-
+84,越,12,etsu,"ko(su), ko(eru)"
+85,謁,15,etsu,-
+86,閲,15,etsu,-
+87,円,4,en,maru(i)
+88,延,8,en,"no(biru), no(beru), no(basu)"
+89,沿,8,en,so(u)
+90,炎,8,en,honoo
+91,怨,9,"en, on",-
+92,宴,10,en,-
+93,媛,12,en,-
+94,援,12,en,-
+95,園,13,en,sono
+96,煙,13,en,"kemu(ru), kemuri, kemu(i)"
+97,猿,13,en,saru
+98,遠,13,"en, [on]",too(i)
+99,鉛,13,en,namari
+100,塩,13,en,shio
+101,演,14,en,-
+102,縁,15,en,fuchi
+103,艶,19,en,tsuya
+104,汚,6,o,"kega(su), kega(reru), kega(rawashii), yogo(su), yogo(reru), kitana(i)"
+105,王,4,oo,-
+106,凹,5,oo,-
+107,央,5,oo,-
+108,応,7,oo,kota(eru)
+109,往,8,oo,-
+110,押,8,oo,"o(su), o(saeru)"
+111,旺,8,oo,-
+112,欧,8,oo,-
+113,殴,8,oo,nagu(ru)
+114,桜,10,oo,sakura
+115,翁,10,oo,-
+116,奥,12,oo,oku
+117,横,15,oo,yoko
+118,岡,8,-,[oka]
+119,屋,9,oku,ya
+120,億,15,oku,-
+121,憶,16,oku,-
+122,臆,17,oku,-
+123,虞,13,-,osore
+124,乙,1,otsu,-
+125,俺,10,-,ore
+126,卸,9,-,"oro(su), oroshi"
+127,音,9,"on, 	in","oto, ne"
+128,恩,10,on,-
+129,温,12,on,"atata(ka), atata(kai), atata(maru), atata(meru)"
+130,穏,16,on,oda(yaka)
+131,下,3,"ka, 	ge","shita, shimo, moto, sa(geru), sa(garu), kuda(ru), kuda(su), kuda(saru), o(rosu), o(riru)"
+132,化,4,"ka, 	ke","ba(keru), ba(kasu)"
+133,火,4,ka,"hi, [ho]"
+134,加,5,ka,"kuwa(eru), kuwa(waru)"
+135,可,5,ka,-
+136,仮,6,"ka, [ke]",kari
+137,何,7,ka,"nani, [nan]"
+138,花,7,ka,hana
+139,佳,8,ka,-
+140,価,8,ka,atai
+141,果,8,ka,"ha(tasu), ha(teru), ha(te)"
+142,河,8,ka,kawa
+143,苛,8,ka,-
+144,科,9,ka,-
+145,架,9,ka,"ka(keru), ka(karu)"
+146,夏,10,"ka, [ge]",natsu
+147,家,10,"ka, 	ke","ie, ya"
+148,荷,10,ka,ni
+149,華,10,"ka, [ke]",hana
+150,菓,11,ka,-
+151,貨,11,ka,-
+152,渦,12,ka,uzu
+153,過,12,ka,"su(giru), su(gosu), ayama(tsu), ayama(chi)"
+154,嫁,13,ka,"yome, totsu(gu)"
+155,暇,13,ka,hima
+156,禍,13,ka,-
+157,靴,13,ka,kutsu
+158,寡,14,ka,-
+159,歌,14,ka,"uta, uta(u)"
+160,箇,14,ka,-
+161,稼,15,ka,kase(gu)
+162,課,15,ka,-
+163,蚊,10,-,ka
+164,牙,4,"ga, [ge]",kiba
+165,瓦,5,ga,kawara
+166,我,7,ga,"ware, wa"
+167,画,8,"ga, 	kaku",-
+168,芽,8,ga,me
+169,賀,12,ga,-
+170,雅,13,ga,-
+171,餓,15,ga,-
+172,介,4,kai,-
+173,回,6,"kai, [e]","mawa(ru), mawa(su)"
+174,灰,6,kai,hai
+175,会,6,"kai, 	e",a(u)
+176,快,7,kai,kokoroyo(i)
+177,戒,7,kai,imashi(meru)
+178,改,7,kai,"arata(meru), arata(maru)"
+179,怪,8,kai,"aya(shii), aya(shimu)"
+180,拐,8,kai,-
+181,悔,9,kai,"ku(iru), ku(yamu), kuya(shii)"
+182,海,9,kai,umi
+183,界,9,kai,-
+184,皆,9,kai,mina
+185,械,11,kai,-
+186,絵,12,"kai, 	e",-
+187,開,12,kai,"hira(ku), hira(keru), a(ku), a(keru)"
+188,階,12,kai,-
+189,塊,13,kai,katamari
+190,楷,13,kai,-
+191,解,13,"kai, 	ge","to(ku), to(kasu), to(keru)"
+192,潰,15,kai,"tsubu(su), tsubu(reru)"
+193,壊,16,kai,"kowa(su), kowa(reru)"
+194,懐,16,kai,"futokoro, natsu(kashii), natsu(kashimu), natsu(ku), natsu(keru)"
+195,諧,16,kai,-
+196,貝,7,-,kai
+197,外,5,"gai, 	ge","soto, hoka, ha(zusu), hazu(reru)"
+198,劾,8,gai,-
+199,害,10,gai,-
+200,崖,11,gai,gake
+201,涯,11,gai,-
+202,街,12,"gai, [kai]",machi
+203,慨,13,gai,-
+204,蓋,13,gai,futa
+205,該,13,gai,-
+206,概,14,gai,-
+207,骸,16,gai,-
+208,垣,9,-,kaki
+209,柿,9,-,kaki
+210,各,6,kaku,onoono
+211,角,7,kaku,"kado, tsuno"
+212,拡,8,kaku,-
+213,革,9,kaku,kawa
+214,格,10,"kaku, [koo]",-
+215,核,10,kaku,-
+216,殻,11,kaku,kara
+217,郭,11,kaku,-
+218,覚,12,kaku,"obo(eru), sa(masu), sa(meru)"
+219,較,13,kaku,-
+220,隔,13,kaku,"heda(teru), heda(taru)"
+221,閣,14,kaku,-
+222,確,15,kaku,"tashi(ka), tashi(kameru)"
+223,獲,16,kaku,e(ru)
+224,嚇,17,kaku,-
+225,穫,18,kaku,-
+226,学,8,gaku,mana(bu)
+227,岳,8,gaku,take
+228,楽,13,"gaku, 	raku","tano(shii), tano(shimu)"
+229,額,18,gaku,hitai
+230,顎,18,gaku,ago
+231,掛,11,-,"ka(keru), ka(karu), kakari"
+232,潟,15,-,kata
+233,括,9,katsu,-
+234,活,9,katsu,-
+235,喝,11,katsu,-
+236,渇,11,katsu,kawa(ku)
+237,割,12,katsu,"wa(ru), wari, wa(reru), sa(ku)"
+238,葛,12,katsu,kuzu
+239,滑,13,"katsu, kotsu","sube(ru), name(raka)"
+240,褐,13,katsu,-
+241,轄,17,katsu,-
+242,且,5,-,ka(tsu)
+243,株,10,-,kabu
+244,釜,10,‐,kama
+245,鎌,18,‐,kama
+246,刈,4,-,ka(ru)
+247,干,3,kan,"ho(su), hi(ru)"
+248,刊,5,kan,-
+249,甘,5,kan,"ama(i), ama(eru), ama(yakasu)"
+250,汗,6,kan,ase
+251,缶,6,kan,-
+252,完,7,kan,-
+253,肝,7,kan,kimo
+254,官,8,kan,-
+255,冠,9,kan,kanmuri
+256,巻,9,kan,"ma(ku), maki"
+257,看,9,kan,-
+258,陥,10,kan,"ochii(ru), otoshii(reru)"
+259,乾,11,kan,"kawa(ku), kawa(kasu)"
+260,勘,11,kan,-
+261,患,11,kan,wazura(u)
+262,貫,11,kan,tsuranu(ku)
+263,寒,12,kan,samu(i)
+264,喚,12,kan,-
+265,堪,12,kan,ta(eru)
+266,換,12,kan,"ka(eru), ka(waru)"
+267,敢,12,kan,-
+268,棺,12,kan,-
+269,款,12,kan,-
+270,間,12,"kan, 	ken","aida, ma"
+271,閑,12,kan,-
+272,勧,13,kan,susu(meru)
+273,寛,13,kan,-
+274,幹,13,kan,miki
+275,感,13,kan,-
+276,漢,13,kan,-
+277,慣,14,kan,"na(reru), na(rasu)"
+278,管,14,kan,kuda
+279,関,14,kan,"seki, kaka(waru)"
+280,歓,15,kan,-
+281,監,15,kan,-
+282,緩,15,kan,"yuru(i), yuru(yaka), yuru(mu), yuru(meru) "
+283,憾,16,kan,-
+284,還,16,kan,-
+285,館,16,kan,yakata
+286,環,17,kan,-
+287,簡,18,kan,-
+288,観,18,kan,-
+289,韓,18,kan,-
+290,艦,21,kan,-
+291,鑑,23,kan,kanga(miru)
+292,丸,3,gan,"maru, maru(i), maru(meru)"
+293,含,7,gan,"fuku(mu), fuku(meru)"
+294,岸,8,gan,kishi
+295,岩,8,gan,iwa
+296,玩,8,gan,-
+297,眼,11,"gan, [gen]",manako
+298,頑,13,gan,-
+299,顔,18,gan,kao
+300,願,19,gan,nega(u)
+301,企,6,ki,kuwada(teru)
+302,伎,6,ki,-
+303,危,6,ki,"abu(nai), aya(ui), aya(bumu)"
+304,机,6,ki,tsukue
+305,気,6,"ki, 	ke",-
+306,岐,7,ki,-
+307,希,7,ki,-
+308,忌,7,ki,"i(mu), i(mawashii)"
+309,汽,7,ki,-
+310,奇,8,ki,-
+311,祈,8,ki,ino(ru)
+312,季,8,ki,-
+313,紀,9,ki,-
+314,軌,9,ki,-
+315,既,10,ki,sude(ni)
+316,記,10,ki,shiru(su)
+317,起,10,ki,"o(kiru), o(koru), o(kosu)"
+318,飢,10,ki,u(eru)
+319,鬼,10,ki,oni
+320,帰,10,ki,"kae(ru), kae(su)"
+321,基,11,ki,"moto, motoi"
+322,寄,11,ki,"yo(ru), yo(seru)"
+323,規,11,ki,-
+324,亀,11,ki,kame
+325,喜,12,ki,yoroko(bu)
+326,幾,12,ki,iku
+327,揮,12,ki,-
+328,期,12,"ki, [go]",-
+329,棋,12,ki,-
+330,貴,12,ki,"tatto(i), tooto(i), tatto(bu), tooto(bu)"
+331,棄,13,ki,-
+332,毀,13,ki,-
+333,旗,14,ki,hata
+334,器,15,ki,utsuwa
+335,畿,15,ki,-
+336,輝,15,ki,kagaya(ku)
+337,機,16,ki,hata
+338,騎,18,ki,-
+339,技,7,gi,waza
+340,宜,8,gi,-
+341,偽,11,gi,"itsuwa(ru), nise"
+342,欺,12,gi,azamu(ku)
+343,義,13,gi,-
+344,疑,14,gi,utaga(u)
+345,儀,15,gi,-
+346,戯,15,gi,tawamu(reru)
+347,擬,17,gi,-
+348,犠,17,gi,-
+349,議,20,gi,-
+350,菊,11,kiku,-
+351,吉,6,"kichi, 	kitsu",-
+352,喫,12,kitsu,-
+353,詰,13,kitsu,"tsu(meru), tsu(maru), tsu(mu)"
+354,却,7,kyaku,-
+355,客,9,"kyaku, 	kaku",-
+356,脚,11,"kyaku, [kya]",ashi
+357,逆,9,gyaku,"saka, saka(rau)"
+358,虐,9,gyaku,shiita(geru)
+359,九,2,"kyuu, 	ku","kokono, kokono(tsu)"
+360,久,3,"kyuu, [ku]",hisa(shii)
+361,及,3,kyuu,"oyo(bu), oyo(bi), oyo(bosu)"
+362,弓,3,kyuu,yumi
+363,丘,5,kyuu,oka
+364,旧,5,kyuu,-
+365,休,6,kyuu,"yasu(mu), yasu(maru), yasu(meru)"
+366,吸,6,kyuu,su(u)
+367,朽,6,kyuu,ku(chiru)
+368,臼,6,kyuu,usu
+369,求,7,kyuu,moto(meru)
+370,究,7,kyuu,kiwa(meru)
+371,泣,8,kyuu,na(ku)
+372,急,9,kyuu,iso(gu)
+373,級,9,kyuu,-
+374,糾,9,kyuu,-
+375,宮,10,"kyuu, guu, [ku]",miya
+376,救,11,kyuu,suku(u)
+377,球,11,kyuu,tama
+378,給,12,kyuu,-
+379,嗅,13,kyuu,ka(gu)
+380,窮,15,kyuu,"kiwa(meru), kiwa(maru)"
+381,牛,4,gyuu,ushi
+382,去,5,"kyo, 	ko",sa(ru)
+383,巨,5,kyo,-
+384,居,8,kyo,i(ru)
+385,拒,8,kyo,koba(mu)
+386,拠,8,"kyo, 	ko",-
+387,挙,10,kyo,"a(geru), a(garu)"
+388,虚,11,"kyo, [ko]",-
+389,許,11,kyo,yuru(su)
+390,距,12,kyo,-
+391,魚,11,gyo,"uo, sakana"
+392,御,12,"gyo, 	go",on
+393,漁,14,"gyo, 	ryoo",-
+394,凶,4,kyoo,-
+395,共,6,kyoo,tomo
+396,叫,6,kyoo,sake(bu)
+397,狂,7,kyoo,"kuru(u), kuru(oshii)"
+398,京,8,"kyoo, 	kei",-
+399,享,8,kyoo,-
+400,供,8,"kyoo, [ku]","sona(eru), tomo"
+401,協,8,kyoo,-
+402,況,8,kyoo,-
+403,峡,9,kyoo,-
+404,挟,9,kyoo,"hasa(mu), hasa(maru)"
+405,狭,9,kyoo,"sema(i), saba(meru), seba(maru)"
+406,恐,10,kyoo,"oso(reru), oso(roshii)"
+407,恭,10,kyoo,uyauya(shii)
+408,胸,10,kyoo,"mune, [muna]"
+409,脅,10,kyoo,"obiya(kasu), odo(su), odo(kasu)"
+410,強,11,"kyoo, 	goo","tsuyo(i), tsuyo(maru), tsuyo(meru), shi(iru)"
+411,教,11,kyoo,"oshi(eru), oso(waru)"
+412,郷,11,"kyoo, 	goo",-
+413,境,14,"kyoo, [kei]",sakai
+414,橋,16,kyoo,hashi
+415,矯,17,kyoo,ta(meru)
+416,鏡,19,kyoo,kagami
+417,競,20,"kyoo, 	kei","kiso(u), se(ru)"
+418,響,20,kyoo,hibi(ku)
+419,驚,22,kyoo,"odoro(ku), odoro(kasu)"
+420,仰,6,"gyoo, [koo]","ao(gu), oo(se)"
+421,暁,12,gyoo,akatsuki
+422,業,13,"gyoo, 	goo",waza
+423,凝,16,gyoo,"ko(ru), ko(rasu)"
+424,曲,6,kyoku,"ma(garu), ma(geru)"
+425,局,7,kyoku,-
+426,極,12,"kyoku, 	goku","kiwa(meru), kiwa(maru), kiwa(mi)"
+427,玉,5,gyoku,tama
+428,巾,3,kin,-
+429,斤,4,kin,-
+430,均,7,kin,-
+431,近,7,kin,chika(i)
+432,金,8,"kin, 	kon","kane, [kana]"
+433,菌,11,kin,-
+434,勤,12,"kin, [gon]","tsuto(meru), tsuto(maru)"
+435,琴,12,kin,koto
+436,筋,12,kin,suji
+437,僅,13,kin,wazu(ka)
+438,禁,13,kin,-
+439,緊,15,kin,-
+440,錦,16,kin,nishiki
+441,謹,17,kin,tsutsushi(mu)
+442,襟,18,kin,eri
+443,吟,7,gin,-
+444,銀,14,gin,-
+445,区,4,ku,-
+446,句,5,ku,-
+447,苦,8,ku,"kuru(shii), kuru(shimu), kuru(shimeru), niga(i), niga(ru)"
+448,駆,14,ku,"ka(keru), ka(ru)"
+449,具,8,gu,-
+450,惧,11,gu,-
+451,愚,13,gu,oro(ka)
+452,空,8,kuu,"sora, a(ku), a(keru), kara"
+453,偶,11,guu,-
+454,遇,12,guu,-
+455,隅,12,guu,sumi
+456,串,7,-,kushi
+457,屈,8,kutsu,-
+458,掘,11,kutsu,ho(ru)
+459,窟,13,kutsu,-
+460,熊,14,-,kuma
+461,繰,19,-,ku(ru)
+462,君,7,kun,kimi
+463,訓,10,kun,-
+464,勲,15,kun,-
+465,薫,16,kun,kao(ru)
+466,軍,9,gun,-
+467,郡,10,gun,-
+468,群,13,gun,"mu(reru), mu(re), [mura]"
+469,兄,5,"kei, [kyoo]",ani
+470,刑,6,kei,-
+471,形,7,"kei, 	gyoo","kata, katachi"
+472,系,7,kei,-
+473,径,8,kei,-
+474,茎,8,kei,kuki
+475,係,9,kei,"kaka(ru), kakari"
+476,型,9,kei,kata
+477,契,9,kei,chigi(ru)
+478,計,9,kei,"haka(ru), haka(rau)"
+479,恵,10,"kei, 	e",megu(mu)
+480,啓,11,kei,-
+481,掲,11,kei,kaka(geru)
+482,渓,11,kei,-
+483,経,11,"kei, 	kyoo",he(ru)
+484,蛍,11,kei,hotaru
+485,敬,12,kei,uyama(u)
+486,景,12,kei,-
+487,軽,12,kei,"karu(i), karo(yaka)"
+488,傾,13,kei,"katamu(ku), katamu(keru)"
+489,携,13,kei,"tazusa(eru), tazusa(waru)"
+490,継,13,kei,tsu(gu)
+491,詣,13,kei,mou(deru)
+492,慶,15,kei,-
+493,憬,15,kei,-
+494,稽,15,kei,-
+495,憩,16,kei,"iko(i), iko(u)"
+496,警,19,kei,-
+497,鶏,19,kei,niwatori
+498,芸,7,gei,-
+499,迎,7,gei,muka(eru)
+500,鯨,19,gei,kujira
+501,隙,13,geki,suki
+502,劇,15,geki,-
+503,撃,15,geki,u(tsu)
+504,激,16,geki,hage(shii)
+505,桁,10,-,keta
+506,欠,4,ketsu,"ka(keru), ka(ku)"
+507,穴,5,ketsu,ana
+508,血,6,ketsu,chi
+509,決,7,ketsu,"ki(meru), ki(maru)"
+510,結,12,ketsu,"musu(bu), yu(u), yu(waeru)"
+511,傑,13,ketsu,-
+512,潔,15,ketsu,isagiyo(i)
+513,月,4,"getsu, 	gatsu",tsuki
+514,犬,4,ken,inu
+515,件,6,ken,-
+516,見,7,ken,"mi(ru), mi(eru), mi(seru)"
+517,券,8,ken,-
+518,肩,8,ken,kata
+519,建,9,"ken, [kon]","ta(teru), ta(tsu)"
+520,研,9,ken,to(gu)
+521,県,9,ken,-
+522,倹,10,ken,-
+523,兼,10,ken,ka(neru)
+524,剣,10,ken,tsurugi
+525,拳,10,ken,kobushi
+526,軒,10,ken,noki
+527,健,11,ken,suko(yaka)
+528,険,11,ken,kewa(shii)
+529,圏,12,ken,-
+530,堅,12,ken,kata(i)
+531,検,12,ken,-
+532,嫌,13,"ken, [gen]","kira(u), iya"
+533,献,13,"ken, [kon]",-
+534,絹,13,ken,kinu
+535,遣,13,ken,"tsuka(u), tsuka(wasu)"
+536,権,15,"ken, [gon]",-
+537,憲,16,ken,-
+538,賢,16,ken,kashiko(i)
+539,謙,17,ken,-
+540,鍵,17,ken,kagi
+541,繭,18,ken,mayu
+542,顕,18,ken,-
+543,験,18,"ken, [gen]",-
+544,懸,20,"ken, [ke]","ka(keru), ka(karu)"
+545,元,4,"gen, 	gan",moto
+546,幻,4,gen,maboroshi
+547,玄,5,gen,-
+548,言,7,"gen, 	gon","i(u), koto"
+549,弦,8,gen,tsuru
+550,限,9,gen,kagi(ru)
+551,原,10,gen,hara
+552,現,11,gen,"arawa(reru), arawa(su)"
+553,舷,11,gen,-
+554,減,12,gen,"he(ru), he(rasu)"
+555,源,13,gen,minamoto
+556,厳,17,"gen, [gon]","ogoso(ka), kibi(shii)"
+557,己,3,"ko, 	ki",onore
+558,戸,4,ko,to
+559,古,5,ko,"furu(i), furu(su)"
+560,呼,8,ko,yo(bu)
+561,固,8,ko,"kata(meru), kata(maru), kata(i)"
+562,股,8,ko,mata
+563,虎,8,ko,tora
+564,孤,9,ko,-
+565,弧,9,ko,-
+566,故,9,ko,yue
+567,枯,9,ko,"ka(reru), ka(rasu)"
+568,個,10,ko,-
+569,庫,10,"ko, [ku]",-
+570,湖,12,ko,mizuumi
+571,雇,12,ko,yato(u)
+572,誇,13,ko,hoko(ru)
+573,鼓,13,ko,tsuzumi
+574,錮,16,ko,-
+575,顧,21,ko,kaeri(miru)
+576,五,4,go,"itsu, itsu(tsu)"
+577,互,4,go,taga(i)
+578,午,4,go,-
+579,呉,7,go,-
+580,後,9,"go, 	koo","nochi, ushi(ro), ato, oku(reru)"
+581,娯,10,go,-
+582,悟,10,go,sato(ru)
+583,碁,13,go,-
+584,語,14,go,"kata(ru), kata(rau)"
+585,誤,14,go,ayama(ru)
+586,護,20,go,-
+587,口,3,"koo, 	ku",kuchi
+588,工,3,"koo, 	ku",-
+589,公,4,koo,ooyake
+590,勾,4,koo,-
+591,孔,4,koo,-
+592,功,5,"koo, [ku]",-
+593,巧,5,koo,taku(mi)
+594,広,5,koo,"hiro(i), hiro(maru), hiro(meru), hiro(garu), hiro(geru)"
+595,甲,5,"koo, 	kan",-
+596,交,6,koo,"maji(waru), maji(eru), maji(ru), ma(zaru), ma(zeru), ka(u), ka(wasu)"
+597,光,6,koo,"hika(ru), hikari"
+598,向,6,koo,"mu(ku), mu(keru), mu(kau), mu(koo)"
+599,后,6,koo,-
+600,好,6,koo,"kono(mu), su(ku)"
+601,江,6,koo,e
+602,考,6,koo,kanga(eru)
+603,行,6,"koo, 	gyoo, [an]","i(ku), yu(ku), okona(u)"
+604,坑,7,koo,-
+605,孝,7,koo,-
+606,抗,7,koo,-
+607,攻,7,koo,se(meru)
+608,更,7,koo,"sara, fu(keru), fu(kasu)"
+609,効,8,koo,ki(ku)
+610,幸,8,koo,"saiwa(i), sachi, shiawa(se)"
+611,拘,8,koo,-
+612,肯,8,koo,-
+613,侯,9,koo,-
+614,厚,9,koo,atsu(i)
+615,恒,9,koo,-
+616,洪,9,koo,-
+617,皇,9,"koo, 	oo",-
+618,紅,9,"koo, [ku]","beni, kurenai"
+619,荒,9,koo,"ara(i), a(reru), a(rasu)"
+620,郊,9,koo,-
+621,香,9,"koo, [kyoo]","ka, kao(ri), kao(ru)"
+622,候,10,koo,sooroo
+623,校,10,koo,-
+624,耕,10,koo,tagaya(su)
+625,航,10,koo,-
+626,貢,10,"koo, [ku]",mitsu(gu)
+627,降,10,koo,"o(riru), o(rosu), fu(ru)"
+628,高,10,koo,"taka(i), taka, taka(maru), taka(meru)"
+629,康,11,koo,-
+630,控,11,koo,hika(eru)
+631,梗,11,koo,-
+632,黄,11,"koo, 	oo","ki, [ko]"
+633,喉,12,koo,nodo
+634,慌,12,koo,"awa(teru), awa(tadashii)"
+635,港,12,koo,minato
+636,硬,12,koo,kata(i)
+637,絞,12,koo,"shibo(ru), shi(meru), shi(maru)"
+638,項,12,koo,-
+639,溝,13,koo,mizo
+640,鉱,13,koo,-
+641,構,14,koo,"kama(eru), kama(u)"
+642,綱,14,koo,tsuna
+643,酵,14,koo,-
+644,稿,15,koo,-
+645,興,16,"koo, 	kyoo","oko(ru), oko(su)"
+646,衡,16,koo,-
+647,鋼,16,koo,hagane
+648,講,17,koo,-
+649,購,17,koo,-
+650,乞,3,-,ko(u)
+651,号,5,goo,-
+652,合,6,"goo, gaQ, [kaQ]","a(u), a(wasu), a(waseru)"
+653,拷,9,goo,-
+654,剛,10,goo,-
+655,傲,13,goo,-
+656,豪,14,goo,-
+657,克,7,koku,-
+658,告,7,koku,tsu(geru)
+659,谷,7,koku,tani
+660,刻,8,koku,kiza(mu)
+661,国,8,koku,kuni
+662,黒,11,koku,"kuro, kuro(i)"
+663,穀,14,koku,-
+664,酷,14,koku,-
+665,獄,14,goku,-
+666,骨,10,kotsu,hone
+667,駒,15,-,koma
+668,込,5,-,"ko(mu), ko(meru)"
+669,頃,11,-,koro
+670,今,4,"kon, 	kin",ima
+671,困,7,kon,koma(ru)
+672,昆,8,kon,-
+673,恨,9,kon,"ura(mu), ura(meshii)"
+674,根,10,kon,ne
+675,婚,11,kon,-
+676,混,11,kon,"ma(jiru), ma(zaru), ma(zeru), ko(mu)"
+677,痕,11,kon,ato
+678,紺,11,kon,-
+679,魂,14,kon,tamashii
+680,墾,16,kon,-
+681,懇,17,kon,nengo(ro)
+682,左,5,sa,hidari
+683,佐,7,sa,-
+684,沙,7,sa,-
+685,査,9,sa,-
+686,砂,9,"sa, 	sha",suna
+687,唆,10,sa,sosonoka(su)
+688,差,10,sa,sa(su)
+689,詐,12,sa,-
+690,鎖,18,sa,kusari
+691,座,10,za,suwa(ru)
+692,挫,10,za,-
+693,才,3,sai,-
+694,再,6,"sai, [sa]",futata(bi)
+695,災,7,sai,wazawa(i)
+696,妻,8,sai,tsuma
+697,采,8,sai,-
+698,砕,9,sai,"kuda(ku), kuda(keru)"
+699,宰,10,sai,-
+700,栽,10,sai,-
+701,彩,11,sai,irodo(ru)
+702,採,11,sai,to(ru)
+703,済,11,sai,"su(mu), su(masu)"
+704,祭,11,sai,"matsu(ru), matsu(ri)"
+705,斎,11,sai,-
+706,細,11,sai,"hoso(i), hoso(ru), koma(ka), koma(kai)"
+707,菜,11,sai,na
+708,最,12,sai,motto(mo)
+709,裁,12,sai,"ta(tsu), saba(ku)"
+710,債,13,sai,-
+711,催,13,sai,moyoo(su)
+712,塞,13,"sai, soku","fusa(gu), fusa(garu)"
+713,歳,13,"sai, [sei]",-
+714,載,13,sai,"no(seru), no(ru)"
+715,際,14,sai,kiwa
+716,埼,11,-,[sai]
+717,在,6,zai,a(ru)
+718,材,7,zai,-
+719,剤,10,zai,-
+720,財,10,"zai, [sai]",-
+721,罪,13,zai,tsumi
+722,崎,11,-,saki
+723,作,7,"saku, 	sa",tsuku(ru)
+724,削,9,saku,kezu(ru)
+725,昨,9,saku,-
+726,柵,9,saku,-
+727,索,10,saku,-
+728,策,12,saku,-
+729,酢,12,saku,su
+730,搾,13,saku,shibo(ru)
+731,錯,16,saku,-
+732,咲,9,-,sa(ku)
+733,冊,5,"satsu, 	saku",-
+734,札,5,satsu,fuda
+735,刷,8,satsu,su(ru)
+736,刹,8,"satsu, setsu",-
+737,拶,9,satsu,-
+738,殺,10,"satsu, [sai], [setsu]",koro(su)
+739,察,14,satsu,-
+740,撮,15,satsu,to(ru)
+741,擦,17,satsu,"su(ru), su(reru)"
+742,雑,14,"zatsu, 	zoo",-
+743,皿,5,-,sara
+744,三,3,san,"mi, mi(tsu), mit(tsu)"
+745,山,3,san,yama
+746,参,8,san,mai(ru)
+747,桟,10,san,-
+748,蚕,10,san,kaiko
+749,惨,11,"san, 	zan",miji(me)
+750,産,11,san,"u(mu), u(mareru), ubu"
+751,傘,12,san,kasa
+752,散,12,san,"chi(ru), chi(rasu), chi(rakasu), chi(rakaru)"
+753,算,14,san,-
+754,酸,14,san,su(i)
+755,賛,15,san,-
+756,残,10,zan,"noko(ru), noko(su)"
+757,斬,11,zan,ki(ru)
+758,暫,15,zan,-
+759,士,3,shi,-
+760,子,3,"shi, 	su",ko
+761,支,4,shi,sasa(eru)
+762,止,4,shi,"to(maru), to(meru)"
+763,氏,4,shi,uji
+764,仕,5,"shi, [ji]",tsuka(eru)
+765,史,5,shi,-
+766,司,5,shi,-
+767,四,5,shi,"yo, yo(tsu), yot(tsu), yon"
+768,市,5,shi,ichi
+769,矢,5,shi,ya
+770,旨,6,shi,mune
+771,死,6,shi,shi(nu)
+772,糸,6,shi,ito
+773,至,6,shi,ita(ru)
+774,伺,7,shi,ukaga(u)
+775,志,7,shi,"kokoroza(su), kokorozashi"
+776,私,7,shi,"watakushi, watashi"
+777,使,8,shi,tsuka(u)
+778,刺,8,shi,"sa(su), sa(saru)"
+779,始,8,shi,"haji(meru), haji(maru)"
+780,姉,8,shi,ane
+781,枝,8,shi,eda
+782,祉,8,shi,-
+783,肢,8,shi,-
+784,姿,9,shi,sugata
+785,思,9,shi,omo(u)
+786,指,9,shi,"yubi, sa(su)"
+787,施,9,"shi, 	se",hodoko(su)
+788,師,10,shi,-
+789,恣,10,shi,-
+790,紙,10,shi,kami
+791,脂,10,shi,abura
+792,視,11,shi,-
+793,紫,12,shi,murasaki
+794,詞,12,shi,-
+795,歯,12,shi,ha
+796,嗣,13,shi,-
+797,試,13,shi,"kokoro(miru), tame(su)"
+798,詩,13,shi,-
+799,資,13,shi,-
+800,飼,13,shi,ka(u)
+801,誌,14,shi,-
+802,雌,14,shi,"me, mesu"
+803,摯,15,shi,-
+804,賜,15,shi,tamawa(ru)
+805,諮,16,shi,haka(ru)
+806,示,5,"ji, 	shi",shime(su)
+807,字,6,ji,aza
+808,寺,6,ji,tera
+809,次,6,"ji, 	shi","tsu(gu), tsugi"
+810,耳,6,ji,mimi
+811,自,6,"ji, 	shi",mizuka(ra)
+812,似,7,ji,ni(ru)
+813,児,7,"ji, [ni]",-
+814,事,8,"ji, [zu]",koto
+815,侍,8,ji,samurai
+816,治,8,"chi, 	ji","osa(meru), osa(maru), nao(ru), nao(su)"
+817,持,9,ji,mo(tsu)
+818,時,10,ji,toki
+819,滋,12,ji,-
+820,慈,13,ji,itsuku(shimu)
+821,辞,13,ji,ya(meru)
+822,磁,14,ji,-
+823,餌,15,ji,"esa, e"
+824,璽,19,ji,-
+825,鹿,11,-,"shika, [ka]"
+826,式,6,shiki,-
+827,識,19,shiki,-
+828,軸,12,jiku,-
+829,七,2,shichi,"nana, nana(tsu), [nano]"
+830,叱,5,shitsu,shika(ru)
+831,失,5,shitsu,ushina(u)
+832,室,9,shitsu,muro
+833,疾,10,shitsu,-
+834,執,11,"shitsu, 	shuu",to(ru)
+835,湿,12,shitsu,"shime(ru), shime(su)"
+836,嫉,13,shitsu,-
+837,漆,14,shitsu,urushi
+838,質,15,"shitsu, shichi, [chi]",-
+839,実,8,jitsu,"mi, mino(ru)"
+840,芝,6,-,shiba
+841,写,5,sha,"utsu(su), utsu(ru)"
+842,社,7,sha,yashiro
+843,車,7,sha,kuruma
+844,舎,8,sha,-
+845,者,8,sha,mono
+846,射,10,sha,i(ru)
+847,捨,11,sha,su(teru)
+848,赦,11,sha,-
+849,斜,11,sha,nana(me)
+850,煮,12,sha,"ni(ru), ni(eru), ni(yasu)"
+851,遮,14,sha,saegi(ru)
+852,謝,17,sha,ayama(ru)
+853,邪,8,ja,-
+854,蛇,11,"ja, 	da",hebi
+855,尺,4,shaku,-
+856,借,10,shaku,ka(riru)
+857,酌,10,shaku,ku(mu)
+858,釈,11,shaku,-
+859,爵,17,shaku,-
+860,若,8,"jaku, [nyaku]","waka(i), mo(shikuwa)"
+861,弱,10,jaku,"yowa(i), yowa(ru), yowa(maru), yowa(meru)"
+862,寂,11,"jaku, [seki]","sabi, sabi(shii), sabi(reru)"
+863,手,4,shu,"te, [ta]"
+864,主,5,"shu, [su]","nushi, omo"
+865,守,6,"shu, [su]","mamo(ru), mo(ri)"
+866,朱,6,shu,-
+867,取,8,shu,to(ru)
+868,狩,9,shu,"ka(ru), ka(ri)"
+869,首,9,shu,kubi
+870,殊,10,shu,koto
+871,珠,10,shu,-
+872,酒,10,shu,"sake, [saka]"
+873,腫,13,shu,"ha(reru), ha(rasu)"
+874,種,14,shu,tane
+875,趣,15,shu,omomuki
+876,寿,7,ju,kotobuki
+877,受,8,ju,"u(keru), u(karu)"
+878,呪,8,ju,noro(u)
+879,授,11,ju,"sazu(keru), sazu(karu)"
+880,需,14,ju,-
+881,儒,16,ju,-
+882,樹,16,ju,-
+883,収,4,shuu,"osa(meru), osa(maru)"
+884,囚,5,shuu,-
+885,州,6,shuu,su
+886,舟,6,shuu,"fune, [funa]"
+887,秀,7,shuu,hii(deru)
+888,周,8,shuu,mawa(ri)
+889,宗,8,"shuu, 	soo",-
+890,拾,9,"shuu, 	juu",hiro(u)
+891,秋,9,shuu,aki
+892,臭,9,shuu,"kusa(i), nio(u)"
+893,修,10,"shuu, [shu]","osa(meru), osa(maru)"
+894,袖,10,shuu,sode
+895,終,11,shuu,"o(waru), o(eru)"
+896,羞,11,shuu,-
+897,習,11,shuu,nara(u)
+898,週,11,shuu,-
+899,就,12,"shuu, [ju]","tsu(ku), tsu(keru)"
+900,衆,12,"shuu, [shu]",-
+901,集,12,shuu,"atsu(maru), atsu(meru), tsudo(u)"
+902,愁,13,shuu,"ure(eru), ure(i)"
+903,酬,13,shuu,-
+904,醜,17,shuu,miniku(i)
+905,蹴,19,shuu,ke(ru)
+906,襲,22,shuu,oso(u)
+907,十,2,"juu, 	jiQ","too, to"
+908,汁,5,juu,shiru
+909,充,6,juu,a(teru)
+910,住,7,juu,"su(mu), su(mau)"
+911,柔,9,"juu, 	nyuu","yawa(raka), yawa(rakai)"
+912,重,9,"juu, 	choo","e, omo(i), kasa(neru), kasa(naru)"
+913,従,10,"juu, [shoo], [ju]","shitaga(u), shitaga(eru)"
+914,渋,11,juu,"shibu, shibu(i), shibu(ru)"
+915,銃,14,juu,-
+916,獣,16,juu,kemono
+917,縦,16,juu,tate
+918,叔,8,shuku,-
+919,祝,9,"shuku, [shuu]",iwa(u)
+920,宿,11,shuku,"yado, yado(ru), yado(su)"
+921,淑,11,shuku,-
+922,粛,11,shuku,-
+923,縮,17,shuku,"chiji(mu), chiji(maru), chiji(meru), chiji(reru), chiji(rasu)"
+924,塾,14,juku,-
+925,熟,15,juku,u(reru)
+926,出,5,"shutsu, [sui]","de(ru), da(su)"
+927,述,8,jutsu,no(beru)
+928,術,11,jutsu,-
+929,俊,9,shun,-
+930,春,9,shun,haru
+931,瞬,18,shun,matata(ku)
+932,旬,6,"jun, [shun]",-
+933,巡,6,jun,megu(ru)
+934,盾,9,jun,tate
+935,准,10,jun,-
+936,殉,10,jun,-
+937,純,10,jun,-
+938,循,12,jun,-
+939,順,12,jun,-
+940,準,13,jun,-
+941,潤,15,jun,"uruo(u), uruo(su), uru(mu)"
+942,遵,15,jun,-
+943,処,5,sho,-
+944,初,7,sho,"haji(me), haji(mete), hatsu, ui, so(meru)"
+945,所,8,sho,tokoro
+946,書,10,sho,ka(ku)
+947,庶,11,sho,-
+948,暑,12,sho,atsu(i)
+949,署,13,sho,-
+950,緒,14,"sho, [cho]",o
+951,諸,15,sho,-
+952,女,3,"jo, nyo, [nyoo]","onna, me"
+953,如,6,"jo, 	nyo",-
+954,助,7,jo,"tasu(keru), tasu(karu), suke"
+955,序,7,jo,-
+956,叙,9,jo,-
+957,徐,10,jo,-
+958,除,10,"jo, [ji]",nozo(ku)
+959,小,3,shoo,"chii(sai), ko, o"
+960,升,4,shoo,masu
+961,少,4,shoo,"suku(nai), suko(shi)"
+962,召,5,shoo,me(su)
+963,匠,6,shoo,-
+964,床,7,shoo,"toko, yuka"
+965,抄,7,shoo,-
+966,肖,7,shoo,-
+967,尚,8,shoo,-
+968,招,8,shoo,mane(ku)
+969,承,8,shoo,uketamawa(ru)
+970,昇,8,shoo,nobo(ru)
+971,松,8,shoo,matsu
+972,沼,8,shoo,numa
+973,昭,9,shoo,-
+974,宵,10,shoo,yoi
+975,将,10,shoo,-
+976,消,10,shoo,"ki(eru), ke(su)"
+977,症,10,shoo,-
+978,祥,10,shoo,-
+979,称,10,shoo,-
+980,笑,10,shoo,"wara(u), e(mu)"
+981,唱,11,shoo,tona(eru)
+982,商,11,shoo,akina(u)
+983,渉,11,shoo,-
+984,章,11,shoo,-
+985,紹,11,shoo,-
+986,訟,11,shoo,-
+987,勝,12,shoo,"ka(tsu), masa(ru)"
+988,掌,12,shoo,-
+989,晶,12,shoo,-
+990,焼,12,shoo,"ya(ku), ya(keru)"
+991,焦,12,shoo,"ko(geru), ko(gasu), ko(gareru), ase(ru)"
+992,硝,12,shoo,-
+993,粧,12,shoo,-
+994,詔,12,shoo,mikotonori
+995,証,12,shoo,-
+996,象,12,"shoo, 	zoo",-
+997,傷,13,shoo,"kizu, ita(mu), ita(meru)"
+998,奨,13,shoo,-
+999,照,13,shoo,"te(ru), te(rasu), te(reru)"
+1000,詳,13,shoo,kuwa(shii)
+1001,彰,14,shoo,-
+1002,障,14,shoo,sawa(ru)
+1003,憧,15,shoo,akoga(reru)
+1004,衝,15,shoo,-
+1005,賞,15,shoo,-
+1006,償,17,shoo,tsugu(nau)
+1007,礁,17,shoo,-
+1008,鐘,20,shoo,kane
+1009,上,3,"joo, [shoo]","ue, [uwa], kami, a(geru), a(garu), nobo(ru), nobo(seru), nobo(su)"
+1010,丈,3,joo,take
+1011,冗,4,joo,-
+1012,条,7,joo,-
+1013,状,7,joo,-
+1014,乗,9,joo,"no(ru), no(seru)"
+1015,城,9,joo,shiro
+1016,浄,9,joo,-
+1017,剰,11,joo,-
+1018,常,11,joo,"tsune, toko"
+1019,情,11,"joo, [sei]",nasa(ke)
+1020,場,12,joo,ba
+1021,畳,12,joo,"tata(mu), tatami"
+1022,蒸,13,joo,"mu(su), mu(reru), mu(rasu)"
+1023,縄,15,joo,nawa
+1024,壌,16,joo,-
+1025,嬢,16,joo,-
+1026,錠,16,joo,-
+1027,譲,20,joo,yuzu(ru)
+1028,醸,20,joo,kamo(su)
+1029,色,6,"shoku, 	shiki",iro
+1030,拭,9,shoku,"fu(ku), nugu(u)"
+1031,食,9,"shoku, [jiki]","ku(u), ku(rau), ta(beru)"
+1032,植,12,shoku,"u(eru), u(waru)"
+1033,殖,12,shoku,"fu(eru), fu(yasu)"
+1034,飾,13,shoku,kaza(ru)
+1035,触,13,shoku,"fu(reru), sawa(ru)"
+1036,嘱,15,shoku,-
+1037,織,18,"shoku, 	shiki",o(ru)
+1038,職,18,shoku,-
+1039,辱,10,joku,hazukashi(meru)
+1040,尻,5,-,shiri
+1041,心,4,shin,kokoro
+1042,申,5,shin,moo(su)
+1043,伸,7,shin,"no(biru), no(basu), no(beru)"
+1044,臣,7,"shin, 	jin",-
+1045,芯,7,shin,-
+1046,身,7,shin,mi
+1047,辛,7,shin,kara(i)
+1048,侵,9,shin,oka(su)
+1049,信,9,shin,-
+1050,津,9,shin,tsu
+1051,神,9,"shin, 	jin","kami, [kan], [koo]"
+1052,唇,10,shin,kuchibiru
+1053,娠,10,shin,-
+1054,振,10,shin,"fu(ru), fu(ruu), fu(reru)"
+1055,浸,10,shin,"hita(su), hita(ru)"
+1056,真,10,shin,ma
+1057,針,10,shin,hari
+1058,深,11,shin,"fuka(i), fuka(maru), fuka(meru)"
+1059,紳,11,shin,-
+1060,進,11,shin,"susu(mu), susu(meru)"
+1061,森,12,shin,mori
+1062,診,12,shin,mi(ru)
+1063,寝,13,shin,"ne(ru), ne(kasu)"
+1064,慎,13,shin,tsutsushi(mu)
+1065,新,13,shin,"atara(shii), ara(ta), nii"
+1066,審,15,shin,-
+1067,震,15,shin,"furu(u), furu(eru)"
+1068,薪,16,shin,takigi
+1069,親,16,shin,"oya, shita(shii), shita(shimu)"
+1070,人,2,"jin, 	nin",hito
+1071,刃,3,jin,ha
+1072,仁,4,"jin, [ni]",-
+1073,尽,6,jin,"tsu(kusu), tsu(kiru), tsu(kasu)"
+1074,迅,6,jin,-
+1075,甚,9,jin,"hanaha(da), hanaha(dashii)"
+1076,陣,10,jin,-
+1077,尋,12,jin,tazu(neru)
+1078,腎,13,jin,-
+1079,須,12,su,-
+1080,図,7,"zu, 	to",haka(ru)
+1081,水,4,sui,mizu
+1082,吹,7,sui,fu(ku)
+1083,垂,8,sui,"ta(reru), ta(rasu)"
+1084,炊,8,sui,ta(ku)
+1085,帥,9,sui,-
+1086,粋,10,sui,iki
+1087,衰,10,sui,otoro(eru)
+1088,推,11,sui,o(su)
+1089,酔,11,sui,yo(u)
+1090,遂,12,sui,to(geru)
+1091,睡,13,sui,-
+1092,穂,15,sui,ho
+1093,随,12,zui,-
+1094,髄,19,zui,-
+1095,枢,8,suu,-
+1096,崇,11,suu,-
+1097,数,13,"suu, [su]","kazu, kazo(eru)"
+1098,据,11,-,"su(eru), su(waru)"
+1099,杉,7,-,sugi
+1100,裾,13,-,suso
+1101,寸,3,sun,-
+1102,瀬,19,-,se
+1103,是,9,ze,-
+1104,井,4,"sei, [shoo]",i
+1105,世,5,"sei, 	se",yo
+1106,正,5,"sei, 	shoo","tada(shii), tada(su), masa"
+1107,生,5,"sei, 	shoo","i(kiru), i(kasu), i(keru), u(mareru), u(mu), o(u), ha(eru), ha(yasu), ki, nama"
+1108,成,6,"sei, [joo]","na(ru), na(su)"
+1109,西,6,"sei, 	sai",nishi
+1110,声,7,"sei, [shoo]","koe, [kowa]"
+1111,制,8,sei,-
+1112,姓,8,"sei, 	shoo",-
+1113,征,8,sei,-
+1114,性,8,"sei, 	shoo",-
+1115,青,8,"sei, [shoo]","ao, ao(i)"
+1116,斉,8,sei,-
+1117,政,9,"sei, [shoo]",matsurigoto
+1118,星,9,"sei, [shoo]",hoshi
+1119,牲,9,sei,-
+1120,省,9,"sei, 	shoo","kaeri(miru), habu(ku)"
+1121,凄,10,sei,-
+1122,逝,10,sei,"yu(ku), i(ku)"
+1123,清,11,"sei, [shoo]","kiyo(i), kiyo(maru), kiyo(meru)"
+1124,盛,11,"sei, [joo]","mo(ru), saka(ru), saka(n)"
+1125,婿,12,sei,muko
+1126,晴,12,sei,"ha(reru), ha(rasu)"
+1127,勢,13,sei,ikio(i)
+1128,聖,13,sei,-
+1129,誠,13,sei,makoto
+1130,精,14,"sei, [shoo]",-
+1131,製,14,sei,-
+1132,誓,14,sei,chika(u)
+1133,静,14,"sei, [joo]","shizu, shizu(ka), shizu(maru), shizu(meru)"
+1134,請,15,"sei, [shin]","ko(u), u(keru)"
+1135,整,16,sei,"totono(eru), totono(u)"
+1136,醒,16,sei,-
+1137,税,12,zei,-
+1138,夕,3,seki,yuu
+1139,斥,5,seki,-
+1140,石,5,"seki, [shaku], [koku]",ishi
+1141,赤,7,"seki, [shaku]","aka, aka(i), aka(ramu), aka(rameru)"
+1142,昔,8,"seki, [shaku]",mukashi
+1143,析,8,seki,-
+1144,席,10,seki,-
+1145,脊,10,seki,-
+1146,隻,10,seki,-
+1147,惜,11,seki,"o(shii), o(shimu)"
+1148,戚,11,seki,-
+1149,責,11,seki,se(meru)
+1150,跡,13,seki,ato
+1151,積,16,seki,"tsu(mu), tsu(moru)"
+1152,績,17,seki,-
+1153,籍,20,seki,-
+1154,切,4,"setsu, [sai]","ki(ru), ki(reru)"
+1155,折,7,setsu,"o(ru), ori, o(reru)"
+1156,拙,8,setsu,tsutana(i)
+1157,窃,9,setsu,-
+1158,接,11,setsu,tsu(gu)
+1159,設,11,setsu,moo(keru)
+1160,雪,11,setsu,yuki
+1161,摂,13,setsu,-
+1162,節,13,"setsu, [sechi]",fushi
+1163,説,14,"setsu, [zei]",to(ku)
+1164,舌,6,zetsu,shita
+1165,絶,12,zetsu,"ta(eru), ta(yasu), ta(tsu)"
+1166,千,3,sen,chi
+1167,川,3,sen,kawa
+1168,仙,5,sen,-
+1169,占,5,sen,"shi(meru), urana(u)"
+1170,先,6,sen,saki
+1171,宣,9,sen,-
+1172,専,9,sen,moppa(ra)
+1173,泉,9,sen,izumi
+1174,浅,9,sen,asa(i)
+1175,洗,9,sen,ara(u)
+1176,染,9,sen,"so(meru), so(maru), shi(miru), shi(mi)"
+1177,扇,10,sen,oogi
+1178,栓,10,sen,-
+1179,旋,11,sen,-
+1180,船,11,sen,"fune, [funa]"
+1181,戦,13,sen,"ikusa, tataka(u)"
+1182,煎,13,sen,i(ru)
+1183,羨,13,sen,"uraya(mu), uraya(mashii)"
+1184,腺,13,sen,-
+1185,詮,13,sen,-
+1186,践,13,sen,-
+1187,箋,14,sen,-
+1188,銭,14,sen,zeni
+1189,潜,15,sen,"hiso(mu), mogu(ru)"
+1190,線,15,sen,-
+1191,遷,15,sen,-
+1192,選,15,sen,era(bu)
+1193,薦,16,sen,susu(meru)
+1194,繊,17,sen,-
+1195,鮮,17,sen,aza(yaka)
+1196,全,6,zen,"matta(ku), sube(te)"
+1197,前,9,zen,mae
+1198,善,12,zen,yo(i)
+1199,然,12,"zen, 	nen",-
+1200,禅,13,zen,-
+1201,漸,14,zen,-
+1202,膳,16,zen,-
+1203,繕,18,zen,tsukuro(u)
+1204,狙,8,so,nera(u)
+1205,阻,8,so,haba(mu)
+1206,祖,9,so,-
+1207,租,10,so,-
+1208,素,10,"so, 	su",-
+1209,措,11,so,-
+1210,粗,11,so,ara(i)
+1211,組,11,so,"ku(mu), kumi"
+1212,疎,12,so,"uto(i), uto(mu)"
+1213,訴,12,so,utta(eru)
+1214,塑,13,so,-
+1215,遡,14,so,sakanobo(ru)
+1216,礎,18,so,ishizue
+1217,双,4,soo,futa
+1218,壮,6,soo,-
+1219,早,6,"soo, [saQ]","haya(i), haya(maru), haya(meru)"
+1220,争,6,soo,araso(u)
+1221,走,7,soo,hashi(ru)
+1222,奏,9,soo,kana(deru)
+1223,相,9,"soo, 	shoo",ai
+1224,荘,9,soo,-
+1225,草,9,soo,kusa
+1226,送,9,soo,oku(ru)
+1227,倉,10,soo,kura
+1228,捜,10,soo,saga(su)
+1229,挿,10,soo,sa(su)
+1230,桑,10,soo,kuwa
+1231,巣,11,soo,su
+1232,掃,11,soo,ha(ku)
+1233,曹,11,soo,-
+1234,曽,11,"soo, [zo]",-
+1235,爽,11,soo,sawa(yaka)
+1236,窓,11,soo,mado
+1237,創,12,soo,tsuku(ru)
+1238,喪,12,soo,mo
+1239,痩,12,soo,ya(seru)
+1240,葬,12,soo,hoomu(ru)
+1241,装,12,"soo, 	shoo",yosoo(u)
+1242,僧,13,soo,-
+1243,想,13,"soo, [so]",-
+1244,層,14,soo,-
+1245,総,14,soo,-
+1246,遭,14,soo,a(u)
+1247,槽,15,soo,-
+1248,踪,15,soo,-
+1249,操,16,soo,"misao, ayatsu(ru)"
+1250,燥,17,soo,-
+1251,霜,17,soo,shimo
+1252,騒,18,soo,sawa(gu)
+1253,藻,19,soo,mo
+1254,造,10,zoo,tsuku(ru)
+1255,像,14,zoo,-
+1256,増,14,zoo,"ma(su), fu(eru), fu(yasu)"
+1257,憎,14,zoo,"niku(mu), niku(i), niku(rashii), niku(shimi)"
+1258,蔵,15,zoo,kura
+1259,贈,18,"zoo, [soo]",oku(ru)
+1260,臓,19,zoo,-
+1261,即,7,soku,-
+1262,束,7,soku,taba
+1263,足,7,soku,"ashi, ta(riru), ta(ru), ta(su)"
+1264,促,9,soku,unaga(su)
+1265,則,9,soku,-
+1266,息,10,soku,iki
+1267,捉,10,soku,tora(eru)
+1268,速,10,soku,"haya(i), haya(meru), haya(maru), sumi(yaka)"
+1269,側,11,soku,gawa
+1270,測,12,soku,haka(ru)
+1271,俗,9,zoku,-
+1272,族,11,zoku,-
+1273,属,12,zoku,-
+1274,賊,13,zoku,-
+1275,続,13,zoku,"tsuzu(ku), tsuzu(keru)"
+1276,卒,8,sotsu,-
+1277,率,11,"sotsu, 	ritsu",hiki(iru)
+1278,存,6,"son, 	zon",-
+1279,村,7,son,mura
+1280,孫,10,son,mago
+1281,尊,12,son,"tatto(i), tooto(i), tatto(bu), tooto(bu)"
+1282,損,13,son,"soko(nau), soko(neru)"
+1283,遜,14,son,-
+1284,他,5,ta,hoka
+1285,多,6,ta,oo(i)
+1286,汰,7,ta,-
+1287,打,5,da,u(tsu)
+1288,妥,7,da,-
+1289,唾,11,da,tsuba
+1290,堕,12,da,-
+1291,惰,12,da,-
+1292,駄,14,da,-
+1293,太,4,"tai, 	ta","futo(i), futo(ru)"
+1294,対,7,"tai, 	tsui",-
+1295,体,7,"tai, 	tei",karada
+1296,耐,9,tai,ta(eru)
+1297,待,9,tai,ma(tsu)
+1298,怠,9,tai,"okota(ru), nama(keru)"
+1299,胎,9,tai,-
+1300,退,9,tai,"shirizo(ku), shirizo(keru)"
+1301,帯,10,tai,"o(biru), obi"
+1302,泰,10,tai,-
+1303,堆,11,tai,-
+1304,袋,11,tai,fukuro
+1305,逮,11,tai,-
+1306,替,12,tai,"ka(eru), ka(waru)"
+1307,貸,12,tai,ka(su)
+1308,隊,12,tai,-
+1309,滞,13,tai,todokoo(ru)
+1310,態,14,tai,-
+1311,戴,17,tai,-
+1312,大,3,"dai, 	tai","oo, oo(kii), oo(ini)"
+1313,代,5,"dai, 	tai","ka(waru), ka(eru), yo, shiro"
+1314,台,5,"dai, 	tai",-
+1315,第,11,dai,-
+1316,題,18,dai,-
+1317,滝,13,-,taki
+1318,宅,6,taku,-
+1319,択,7,taku,-
+1320,沢,7,taku,sawa
+1321,卓,8,taku,-
+1322,拓,8,taku,-
+1323,託,10,taku,-
+1324,濯,17,taku,-
+1325,諾,15,daku,-
+1326,濁,16,daku,"nigo(ru), nigo(su)"
+1327,但,7,-,tada(shi)
+1328,達,12,tatsu,-
+1329,脱,11,datsu,"nu(gu), nu(geru)"
+1330,奪,14,datsu,uba(u)
+1331,棚,12,-,tana
+1332,誰,15,-,dare
+1333,丹,4,tan,-
+1334,旦,5,"tan, dan",-
+1335,担,8,tan,"katsu(gu), nina(u)"
+1336,単,9,tan,-
+1337,炭,9,tan,sumi
+1338,胆,9,tan,-
+1339,探,11,tan,"sagu(ru), saga(su)"
+1340,淡,11,tan,awa(i)
+1341,短,12,tan,mijika(i)
+1342,嘆,13,tan,"nage(ku), nage(kawashii)"
+1343,端,14,tan,"hashi, ha, hata"
+1344,綻,14,tan,hokoro(biru)
+1345,誕,15,tan,-
+1346,鍛,17,tan,kita(eru)
+1347,団,6,"dan, [ton]",-
+1348,男,7,"dan, 	nan",otoko
+1349,段,9,dan,-
+1350,断,11,dan,"ta(tsu), kotowa(ru)"
+1351,弾,12,dan,"hi(ku), hazu(mu), tama"
+1352,暖,13,dan,"atata(ka), atata(kai), atata(maru), atata(meru)"
+1353,談,15,dan,-
+1354,壇,16,"dan, [tan]",-
+1355,地,6,"chi, 	ji",-
+1356,池,6,chi,ike
+1357,知,8,chi,shi(ru)
+1358,値,10,chi,"ne, atai"
+1359,恥,10,chi,"ha(jiru), haji, ha(jirau), ha(zukashii)"
+1360,致,10,chi,ita(su)
+1361,遅,12,chi,"oku(reru), oku(rasu), oso(i)"
+1362,痴,13,chi,-
+1363,稚,13,chi,-
+1364,置,13,chi,o(ku)
+1365,緻,16,chi,-
+1366,竹,6,chiku,take
+1367,畜,10,chiku,-
+1368,逐,10,chiku,-
+1369,蓄,13,chiku,takuwa(eru)
+1370,築,16,chiku,kizu(ku)
+1371,秩,10,chitsu,-
+1372,窒,11,chitsu,-
+1373,茶,9,"cha, 	sa",-
+1374,着,12,"chaku, [jaku]","ki(ru), ki(seru), tsu(ku), tsu(keru)"
+1375,嫡,14,chaku,-
+1376,中,4,"chuu, [jyuu]",naka
+1377,仲,6,chuu,naka
+1378,虫,6,chuu,mushi
+1379,沖,7,chuu,oki
+1380,宙,8,chuu,-
+1381,忠,8,chuu,-
+1382,抽,8,chuu,-
+1383,注,8,chuu,soso(gu)
+1384,昼,9,chuu,hiru
+1385,柱,9,chuu,hashira
+1386,衷,10,chuu,-
+1387,酎,10,chuu,-
+1388,鋳,15,chuu,i(ru)
+1389,駐,15,chuu,-
+1390,著,11,cho,"arawa(su), ichijiru(shii)"
+1391,貯,12,cho,-
+1392,丁,2,"tei, 	choo",-
+1393,弔,4,choo,tomura(u)
+1394,庁,5,choo,-
+1395,兆,6,choo,"kiza(su), kiza(shi)"
+1396,町,7,choo,machi
+1397,長,8,choo,naga(i)
+1398,挑,9,choo,ido(mu)
+1399,帳,11,choo,-
+1400,張,11,choo,ha(ru)
+1401,彫,11,choo,ho(ru)
+1402,眺,11,choo,naga(meru)
+1403,釣,11,choo,tsu(ru)
+1404,頂,11,choo,"itada(ku), itadaki"
+1405,鳥,11,choo,tori
+1406,朝,12,choo,asa
+1407,貼,12,choo,ha(ru)
+1408,超,12,choo,"ko(eru), ko(su)"
+1409,腸,13,choo,-
+1410,跳,13,choo,"ha(neru), to(bu)"
+1411,徴,14,choo,-
+1412,嘲,15,choo,azake(ru)
+1413,潮,15,choo,shio
+1414,澄,15,choo,"su(mu), su(masu)"
+1415,調,15,choo,"shira(beru), totono(u), totono(eru)"
+1416,聴,17,choo,ki(ku)
+1417,懲,18,choo,"ko(riru), ko(rasu), ko(rashimeru)"
+1418,直,8,"choku, 	jiki","tada(chini), nao(su), nao(ru)"
+1419,勅,9,choku,-
+1420,捗,10,choku,-
+1421,沈,7,chin,"shizu(mu), shizu(meru)"
+1422,珍,9,chin,mezura(shii)
+1423,朕,10,chin,-
+1424,陳,11,chin,-
+1425,賃,13,chin,-
+1426,鎮,18,chin,"shizu(meru), shizu(maru)"
+1427,追,9,tsui,o(u)
+1428,椎,12,tsui,-
+1429,墜,15,tsui,-
+1430,通,10,"tsuu, [tsu]","too(ru), too(su), kayo(u)"
+1431,痛,12,tsuu,"ita(i), ita(mu), ita(meru)"
+1432,塚,12,-,tsuka
+1433,漬,14,-,"tsu(keru), tsu(karu)"
+1434,坪,8,-,tsubo
+1435,爪,4,-,"tsume, [tsuma]"
+1436,鶴,21,tsuru,-
+1437,低,7,tei,"hiku(i), hiku(meru), hiku(maru)"
+1438,呈,7,tei,-
+1439,廷,7,tei,-
+1440,弟,7,"tei, [dai], [de]",otooto
+1441,定,8,"tei, 	joo","sada(meru), sada(maru), sada(ka)"
+1442,底,8,tei,soko
+1443,抵,8,tei,-
+1444,邸,8,tei,-
+1445,亭,9,tei,-
+1446,貞,9,tei,-
+1447,帝,9,tei,-
+1448,訂,9,tei,-
+1449,庭,10,tei,niwa
+1450,逓,10,tei,-
+1451,停,11,tei,-
+1452,偵,11,tei,-
+1453,堤,12,tei,tsutsumi
+1454,提,12,tei,sa(geru)
+1455,程,12,tei,hodo
+1456,艇,13,tei,-
+1457,締,15,tei,"shi(maru), shi(meru)"
+1458,諦,16,tei,akira(meru)
+1459,泥,8,dei,doro
+1460,的,8,teki,mato
+1461,笛,11,teki,fue
+1462,摘,14,teki,tsu(mu)
+1463,滴,14,teki,"shizuku, shitata(ru)"
+1464,適,14,teki,-
+1465,敵,15,teki,kataki
+1466,溺,13,deki,obo(reru)
+1467,迭,8,tetsu,-
+1468,哲,10,tetsu,-
+1469,鉄,13,tetsu,-
+1470,徹,15,tetsu,-
+1471,撤,15,tetsu,-
+1472,天,4,ten,"ame, [ama]"
+1473,典,8,ten,-
+1474,店,8,ten,mise
+1475,点,9,ten,-
+1476,展,10,ten,-
+1477,添,11,ten,"so(eru), so(u)"
+1478,転,11,ten,"koro(garu), koro(geru), koro(gasu), koro(bu)"
+1479,填,13,ten,-
+1480,田,5,den,ta
+1481,伝,6,den,"tsuta(waru), tsuta(eru), tsuta(u)"
+1482,殿,13,"den, 	ten","tono, dono"
+1483,電,13,den,-
+1484,斗,4,to,-
+1485,吐,6,to,ha(ku)
+1486,妬,8,to,neta(mu)
+1487,徒,10,to,-
+1488,途,10,to,-
+1489,都,11,"to, 	tsu",miyako
+1490,渡,12,to,"wata(ru), wata(su)"
+1491,塗,13,to,nu(ru)
+1492,賭,16,to,ka(keru)
+1493,土,3,"do, 	to",tsuchi
+1494,奴,5,do,-
+1495,努,7,do,tsuto(meru)
+1496,度,9,"do, [to], [taku]",tabi
+1497,怒,9,do,"ika(ru), oko(ru)"
+1498,刀,2,too,katana
+1499,冬,5,too,fuyu
+1500,灯,6,too,hi
+1501,当,6,too,"a(taru), a(teru)"
+1502,投,7,too,na(geru)
+1503,豆,7,"too, [zu]",mame
+1504,東,8,too,higashi
+1505,到,8,too,-
+1506,逃,9,too,"ni(geru), ni(gasu), noga(su), noga(reru)"
+1507,倒,10,too,"tao(reru), tao(su)"
+1508,凍,10,too,"koo(ru), kogo(eru)"
+1509,唐,10,too,kara
+1510,島,10,too,shima
+1511,桃,10,too,momo
+1512,討,10,too,u(tsu)
+1513,透,10,too,"su(ku), su(kasu), su(keru)"
+1514,党,10,too,-
+1515,悼,11,too,ita(mu)
+1516,盗,11,too,nusu(mu)
+1517,陶,11,too,-
+1518,塔,12,too,-
+1519,搭,12,too,-
+1520,棟,12,too,"mune, [muna]"
+1521,湯,12,too,yu
+1522,痘,12,too,-
+1523,登,12,"too, 	to",nobo(ru)
+1524,答,12,too,"kota(eru), kota(e)"
+1525,等,12,too,hito(shii)
+1526,筒,12,too,tsutsu
+1527,統,12,too,su(beru)
+1528,稲,14,too,"ine, [ina]"
+1529,踏,15,too,"fu(mu), fu(maeru)"
+1530,糖,16,too,-
+1531,頭,16,"too, zu, [to]","atama, kashira"
+1532,謄,17,too,-
+1533,藤,18,too,fuji
+1534,闘,18,too,tataka(u)
+1535,騰,20,too,-
+1536,同,6,doo,ona(ji)
+1537,洞,9,doo,hora
+1538,胴,10,doo,-
+1539,動,11,doo,"ugo(ku), ugo(kasu)"
+1540,堂,11,doo,-
+1541,童,12,doo,warabe
+1542,道,12,"doo, [too]",michi
+1543,働,13,doo,hatara(ku)
+1544,銅,14,doo,-
+1545,導,15,doo,michibi(ku)
+1546,瞳,17,doo,hitomi
+1547,峠,9,-,tooge
+1548,匿,10,toku,-
+1549,特,10,toku,-
+1550,得,11,toku,"e(ru), u(ru)"
+1551,督,13,toku,-
+1552,徳,14,toku,-
+1553,篤,16,toku,-
+1554,毒,8,doku,-
+1555,独,9,doku,hito(ri)
+1556,読,14,"doku, toku, [too]",yo(mu)
+1557,栃,9,-,[tochi]
+1558,凸,5,totsu,-
+1559,突,8,totsu,tsu(ku)
+1560,届,8,-,"todo(keru), todo(ku)"
+1561,屯,4,ton,-
+1562,豚,11,ton,buta
+1563,頓,13,ton,-
+1564,貪,11,don,musabo(ru)
+1565,鈍,12,don,"nibu(i), nibu(ru)"
+1566,曇,16,don,kumo(ru)
+1567,丼,5,-,"donburi, [don]"
+1568,那,7,na,-
+1569,奈,8,na,-
+1570,内,4,"nai, [dai]",uchi
+1571,梨,11,-,nashi
+1572,謎,17,-,nazo
+1573,鍋,17,-,nabe
+1574,南,9,"nan, [na]",minami
+1575,軟,11,nan,"yawa(raka), yawa(rakai)"
+1576,難,18,nan,"kata(i), muzuka(shii)"
+1577,二,2,ni,"futa, futa(tsu)"
+1578,尼,5,ni,ama
+1579,弐,6,ni,-
+1580,匂,4,-,nio(u)
+1581,肉,6,niku,-
+1582,虹,9,-,niji
+1583,日,4,"nichi, 	jitsu","hi, ka"
+1584,入,2,nyuu,"i(ru), i(reru), hai(ru)"
+1585,乳,8,nyuu,"chichi, chi"
+1586,尿,7,nyoo,-
+1587,任,6,nin,"maka(seru), maka(su)"
+1588,妊,7,nin,-
+1589,忍,7,nin,"shino(bu), shino(baseru)"
+1590,認,14,nin,mito(meru)
+1591,寧,14,nei,-
+1592,熱,15,netsu,atsu(i)
+1593,年,6,nen,toshi
+1594,念,8,nen,-
+1595,捻,11,nen,-
+1596,粘,11,nen,neba(ru)
+1597,燃,16,nen,"mo(eru), mo(yasu), mo(su)"
+1598,悩,10,noo,"naya(mu), naya(masu)"
+1599,納,10,"noo, [naQ], [na], [nan], [too]","osa(meru), osa(maru)"
+1600,能,10,noo,-
+1601,脳,11,noo,-
+1602,農,13,noo,-
+1603,濃,16,noo,ko(i)
+1604,把,7,ha,-
+1605,波,8,ha,nami
+1606,派,9,ha,-
+1607,破,10,ha,"yabu(ru), yabu(reru)"
+1608,覇,19,ha,-
+1609,馬,10,ba,"uma, [ma]"
+1610,婆,11,ba,-
+1611,罵,15,ba,nonoshi(ru)
+1612,拝,8,hai,oga(mu)
+1613,杯,8,hai,sakazuki
+1614,背,9,hai,"se, sei, somu(ku), somu(keru)"
+1615,肺,9,hai,-
+1616,俳,10,hai,-
+1617,配,10,hai,kuba(ru)
+1618,排,11,hai,-
+1619,敗,11,hai,yabu(reru)
+1620,廃,12,hai,"suta(reru), suta(ru)"
+1621,輩,15,hai,-
+1622,売,7,bai,"u(ru), u(reru)"
+1623,倍,10,bai,-
+1624,梅,10,bai,ume
+1625,培,11,bai,tsuchika(u)
+1626,陪,11,bai,-
+1627,媒,12,bai,-
+1628,買,12,bai,ka(u)
+1629,賠,15,bai,-
+1630,白,5,"haku, 	byaku","shiro, [shira], shiro(i)"
+1631,伯,7,haku,-
+1632,拍,8,"haku, [hyoo]",-
+1633,泊,8,haku,"to(maru), to(meru)"
+1634,迫,8,haku,sema(ru)
+1635,剥,10,haku,"ha(gasu), ha(gu), ha(gareru), ha(geru)"
+1636,舶,11,haku,-
+1637,博,12,"haku, [baku]",-
+1638,薄,16,haku,"usu(i), usu(meru), usu(maru), usu(ragu), usu(reru)"
+1639,麦,7,baku,mugi
+1640,漠,13,baku,-
+1641,縛,16,baku,shiba(ru)
+1642,爆,19,baku,-
+1643,箱,15,-,hako
+1644,箸,15,-,hashi
+1645,畑,9,-,"hata, hatake"
+1646,肌,6,-,hada
+1647,八,2,hachi,"ya, ya(tsu), yat(tsu), [yoo]"
+1648,鉢,13,"[hatsu], 	hachi",-
+1649,発,9,"hatsu, 	hotsu",-
+1650,髪,14,hatsu,kami
+1651,伐,6,batsu,-
+1652,抜,7,batsu,"nu(ku), nu(keru), nu(kasu), nu(karu)"
+1653,罰,14,"batsu, 	bachi",-
+1654,閥,14,batsu,-
+1655,反,4,"han, [hon], [tan]","so(ru), so(rasu)"
+1656,半,5,han,naka(ba)
+1657,氾,5,han,-
+1658,犯,5,han,oka(su)
+1659,帆,6,han,ho
+1660,汎,6,han,-
+1661,伴,7,"han, 	ban",tomona(u)
+1662,判,7,"han, 	ban",-
+1663,坂,7,han,saka
+1664,阪,7,han,-
+1665,板,8,"han, 	ban",ita
+1666,版,8,han,-
+1667,班,10,han,-
+1668,畔,10,han,-
+1669,般,10,han,-
+1670,販,11,han,-
+1671,斑,12,han,-
+1672,飯,12,han,meshi
+1673,搬,13,han,-
+1674,煩,13,"han, [bon]","wazura(u), wazura(wasu)"
+1675,頒,13,han,-
+1676,範,15,han,-
+1677,繁,16,han,-
+1678,藩,18,han,-
+1679,晩,12,ban,-
+1680,番,12,ban,-
+1681,蛮,12,ban,-
+1682,盤,15,ban,-
+1683,比,4,hi,kura(beru)
+1684,皮,5,hi,kawa
+1685,妃,6,hi,-
+1686,否,7,hi,ina
+1687,批,7,hi,-
+1688,彼,8,hi,"kare, [kano]"
+1689,披,8,hi,-
+1690,肥,8,hi,"ko(eru), koe,ko(yasu), ko(yashi)"
+1691,非,8,hi,-
+1692,卑,9,hi,"iya(shii), iya(shimu), iya(shimeru)"
+1693,飛,9,hi,"to(bu), to(basu)"
+1694,疲,10,hi,tsuka(reru)
+1695,秘,10,hi,hi(meru)
+1696,被,10,hi,koomu(ru)
+1697,悲,12,hi,"kana(shii), kana(shimu)"
+1698,扉,12,hi,tobira
+1699,費,12,hi,"tsui(yasu), tsui(eru)"
+1700,碑,14,hi,-
+1701,罷,15,hi,-
+1702,避,16,hi,sa(keru)
+1703,尾,7,bi,o
+1704,眉,9,"bi, [mi]",mayu
+1705,美,9,bi,utsuku(shii)
+1706,備,12,bi,"sona(eru), sona(waru)"
+1707,微,13,bi,-
+1708,鼻,14,bi,hana
+1709,膝,15,-,hiza
+1710,肘,7,-,hiji
+1711,匹,4,hitsu,hiki
+1712,必,5,hitsu,kanara(zu)
+1713,泌,8,"hitsu, 	hi",-
+1714,筆,12,hitsu,fude
+1715,姫,10,-,hime
+1716,百,6,hyaku,-
+1717,氷,5,hyoo,"koori, hi"
+1718,表,8,hyoo,"omote, arawa(su), arawa(reru)"
+1719,俵,10,hyoo,tawara
+1720,票,11,hyoo,-
+1721,評,12,hyoo,-
+1722,漂,14,hyoo,tadayo(u)
+1723,標,15,hyoo,-
+1724,苗,8,byoo,"nae, [nawa]"
+1725,秒,9,byoo,-
+1726,病,10,"byoo, [hei]","ya(mu), yamai"
+1727,描,11,byoo,"ega(ku), ka(ku)"
+1728,猫,11,byoo,neko
+1729,品,9,hin,shina
+1730,浜,10,hin,hama
+1731,貧,11,"hin, 	bin",mazu(shii)
+1732,賓,15,hin,-
+1733,頻,17,hin,-
+1734,敏,10,bin,-
+1735,瓶,11,bin,-
+1736,不,4,"fu, 	bu",-
+1737,夫,4,"fu, [fuu]",otto
+1738,父,4,fu,chichi
+1739,付,5,fu,"tsu(keru), tsu(ku)"
+1740,布,5,fu,nuno
+1741,扶,7,fu,-
+1742,府,8,fu,-
+1743,怖,8,fu,kowa(i)
+1744,阜,8,[fu],-
+1745,附,8,fu,-
+1746,訃,9,fu,-
+1747,負,9,fu,"ma(keru), ma(kasu), o(u)"
+1748,赴,9,fu,omomu(ku)
+1749,浮,10,fu,"u(ku), u(kareru), u(kabu), u(kaberu)"
+1750,婦,11,fu,-
+1751,符,11,fu,-
+1752,富,12,"fu, [fuu]","to(mu), tomi"
+1753,普,12,fu,-
+1754,腐,14,fu,"kusa(ru), kusa(reru), kusa(rasu)"
+1755,敷,15,fu,shi(ku)
+1756,膚,15,fu,-
+1757,賦,15,fu,-
+1758,譜,19,fu,-
+1759,侮,8,bu,anado(ru)
+1760,武,8,"bu, 	mu",-
+1761,部,11,bu,-
+1762,舞,15,bu,"ma(u), mai"
+1763,封,9,"fuu, 	hoo",-
+1764,風,9,"fuu, [fu]","kaze, [kaza]"
+1765,伏,6,fuku,"fu(seru), fu(su)"
+1766,服,8,fuku,-
+1767,副,11,fuku,-
+1768,幅,12,fuku,haba
+1769,復,12,fuku,-
+1770,福,13,fuku,-
+1771,腹,13,fuku,hara
+1772,複,14,fuku,-
+1773,覆,18,fuku,"oo(u), kutsugae(su), kutsugae(ru)"
+1774,払,5,futsu,hara(u)
+1775,沸,8,futsu,"wa(ku), wa(kasu)"
+1776,仏,4,butsu,hotoke
+1777,物,8,"butsu, 	motsu",mono
+1778,粉,10,fun,"ko,kona"
+1779,紛,10,fun,"magi(reru), magi(rasu), magi(rawasu), magi(rawashii)"
+1780,雰,12,fun,-
+1781,噴,15,fun,fu(ku)
+1782,墳,15,fun,-
+1783,憤,15,fun,ikidoo(ru)
+1784,奮,16,fun,furu(u)
+1785,分,4,"bun, fun, bu","wa(keru), wa(kareru), wa(karu), wa(katsu)"
+1786,文,4,"bun, 	mon",fumi
+1787,聞,14,"bun, 	mon","ki(ku), ki(koeru)"
+1788,丙,5,hei,-
+1789,平,5,"hei, 	byoo","tai(ra), hira"
+1790,兵,7,"hei, 	hyoo",-
+1791,併,8,hei,awa(seru)
+1792,並,8,hei,"nami, mara(beru), nara(bu), nara(bini)"
+1793,柄,9,hei,"gara, e"
+1794,陛,10,hei,-
+1795,閉,11,hei,"to(jiru), to(zasu), shi(meru), shi(maru)"
+1796,塀,12,hei,-
+1797,幣,15,hei,-
+1798,弊,15,hei,-
+1799,蔽,15,hei,-
+1800,餅,15,hei,mochi
+1801,米,6,"bei, 	mai",kome
+1802,壁,16,heki,kabe
+1803,璧,18,heki,-
+1804,癖,18,heki,kuse
+1805,別,7,betsu,waka(reru)
+1806,蔑,14,betsu,sagesu(mu)
+1807,片,4,hen,kata
+1808,辺,5,hen,"ata(ri), be"
+1809,返,7,hen,"kae(su), kae(ru)"
+1810,変,9,hen,"ka(waru), ka(eru)"
+1811,偏,11,hen,katayo(ru)
+1812,遍,12,hen,-
+1813,編,15,hen,a(mu)
+1814,弁,5,ben,-
+1815,便,9,"ben, 	bin",tayo(ri)
+1816,勉,10,ben,-
+1817,歩,8,"ho, bu, [fu]","aru(ku), ayu(mu)"
+1818,保,9,ho,tamo(tsu)
+1819,哺,10,ho,-
+1820,捕,10,ho,"to(raeru), to(rawareru), to(ru), tsuka(maeru), tsuka(maru)"
+1821,補,12,ho,ogina(u)
+1822,舗,15,ho,-
+1823,母,5,bo,haha
+1824,募,12,bo,tsuno(ru)
+1825,墓,13,bo,haka
+1826,慕,14,bo,shita(u)
+1827,暮,14,bo,"ku(reru), ku(rasu)"
+1828,簿,19,bo,-
+1829,方,4,hoo,kata
+1830,包,5,hoo,tsutsu(mu)
+1831,芳,7,hoo,kanba(shii)
+1832,邦,7,hoo,-
+1833,奉,8,"hoo, [bu]",tatematsu(ru)
+1834,宝,8,hoo,takara
+1835,抱,8,hoo,"da(ku), ida(ku), kaka(eru)"
+1836,放,8,hoo,"hana(su), hana(tsu), hana(reru), hoo(ru)"
+1837,法,8,"hoo, [haQ], [hoQ]",-
+1838,泡,8,hoo,awa
+1839,胞,9,hoo,-
+1840,俸,10,hoo,-
+1841,倣,10,hoo,nara(u)
+1842,峰,10,hoo,mine
+1843,砲,10,hoo,-
+1844,崩,11,hoo,"kuzu(reru), kuzu(su)"
+1845,訪,11,hoo,"otozu(reru), tazu(neru)"
+1846,報,12,hoo,muku(iru)
+1847,蜂,13,hoo,hachi
+1848,豊,13,hoo,yuta(ka)
+1849,飽,13,hoo,"a(kiru), a(kasu)"
+1850,褒,15,hoo,ho(meru)
+1851,縫,16,hoo,nu(u)
+1852,亡,3,"boo, [moo]",na(-i)
+1853,乏,4,boo,tobo(shii)
+1854,忙,6,boo,isoga(shii)
+1855,坊,7,"boo, [boQ]",-
+1856,妨,7,boo,samata(geru)
+1857,忘,7,boo,wasu(reru)
+1858,防,7,boo,fuse(gu)
+1859,房,8,boo,fusa
+1860,肪,8,boo,-
+1861,某,9,boo,-
+1862,冒,9,boo,oka(su)
+1863,剖,10,boo,-
+1864,紡,10,boo,tsumu(gu)
+1865,望,11,"boo, 	moo",nozo(mu)
+1866,傍,12,boo,katawa(ra)
+1867,帽,12,boo,-
+1868,棒,12,boo,-
+1869,貿,12,boo,-
+1870,貌,14,boo,-
+1871,暴,15,"boo, [baku]","aba(ku), aba(reru)"
+1872,膨,16,boo,"fuku(ramu), fuku(reru)"
+1873,謀,16,"boo, [mu]",haka(ru)
+1874,頬,16,hoo,-
+1875,北,5,hoku,kita
+1876,木,4,"boku, 	moku","ki, [ko]"
+1877,朴,6,boku,-
+1878,牧,8,boku,maki
+1879,睦,13,boku,-
+1880,僕,14,boku,-
+1881,墨,14,boku,sumi
+1882,撲,15,boku,-
+1883,没,7,botsu,-
+1884,勃,9,botsu,-
+1885,堀,11,-,hori
+1886,本,5,hon,moto
+1887,奔,8,hon,-
+1888,翻,18,hon,"hirugae(ru), hirugae(su)"
+1889,凡,3,"bon, [han]",-
+1890,盆,9,bon,-
+1891,麻,11,ma,asa
+1892,摩,15,ma,-
+1893,磨,16,ma,miga(ku)
+1894,魔,21,ma,-
+1895,毎,6,mai,-
+1896,妹,8,mai,imooto
+1897,枚,8,mai,-
+1898,昧,9,mai,-
+1899,埋,10,mai,"u(meru), u(maru), u(moreru)"
+1900,幕,13,"maku, 	baku",-
+1901,膜,14,maku,-
+1902,枕,8,-,makura
+1903,又,2,-,mata
+1904,末,5,"matsu, 	batsu",sue
+1905,抹,8,matsu,-
+1906,万,3,"man, 	ban",-
+1907,満,12,man,"mi(chiru), mi(tasu)"
+1908,慢,14,man,-
+1909,漫,14,man,-
+1910,未,5,mi,-
+1911,味,8,mi,"aji, aji(wau)"
+1912,魅,15,mi,-
+1913,岬,8,-,misaki
+1914,密,11,mitsu,-
+1915,蜜,14,mitsu,-
+1916,脈,10,myaku,-
+1917,妙,7,myoo,-
+1918,民,5,min,tami
+1919,眠,10,min,"nemu(ru), nemu(i)"
+1920,矛,5,mu,hoko
+1921,務,11,mu,"tsuto(meru), tsuto(maru)"
+1922,無,12,"mu, 	bu",na(i)
+1923,夢,13,mu,yume
+1924,霧,19,mu,kiri
+1925,娘,10,-,musume
+1926,名,6,"mei, 	myoo",na
+1927,命,8,"mei, 	myoo",inochi
+1928,明,8,"mei, 	myoo","a(kari), aka(rui), aka(rumu), aka(ramu), aki(raka), a(keru), a(ku), a(kuru), a(kasu)"
+1929,迷,9,mei,mayo(u)
+1930,冥,10,"mei, myoo",-
+1931,盟,13,mei,-
+1932,銘,14,mei,-
+1933,鳴,14,mei,"na(ku), na(ru), na(rasu)"
+1934,滅,13,metsu,"horo(biru), horo(bosu)"
+1935,免,8,men,manuka(reru)
+1936,面,9,men,"omo, omote, tsura"
+1937,綿,14,men,wata
+1938,麺,16,men,-
+1939,茂,8,mo,shige(ru)
+1940,模,14,"mo, 	bo",-
+1941,毛,4,moo,ke
+1942,妄,6,"moo, 	boo",-
+1943,盲,8,moo,-
+1944,耗,10,"moo, [koo]",-
+1945,猛,11,moo,-
+1946,網,14,moo,ami
+1947,目,5,"moku, [boku]","me, [ma]"
+1948,黙,15,moku,dama(ru)
+1949,門,8,mon,kado
+1950,紋,10,mon,-
+1951,問,11,mon,"to(u), to(i), [ton]"
+1952,冶,7,ya,-
+1953,夜,8,ya,"yo, yoru"
+1954,野,11,ya,no
+1955,弥,8,-,ya
+1956,厄,4,yaku,-
+1957,役,7,"eki, 	yaku",-
+1958,約,9,yaku,-
+1959,訳,11,yaku,wake
+1960,薬,16,yaku,kusuri
+1961,躍,21,yaku,odo(ru)
+1962,闇,17,-,yami
+1963,由,5,"yu, yuu, [yui]",yoshi
+1964,油,8,yu,abura
+1965,喩,12,yu,-
+1966,愉,12,yu,-
+1967,諭,16,yu,sato(su)
+1968,輸,16,yu,-
+1969,癒,18,yu,"i(eru), i(yasu)"
+1970,唯,11,"yui, [i]",-
+1971,友,4,yuu,tomo
+1972,有,6,"yuu, 	u",a(ru)
+1973,勇,9,yuu,isa(mu)
+1974,幽,9,yuu,-
+1975,悠,11,yuu,-
+1976,郵,11,yuu,-
+1977,湧,12,yuu,wa(ku)
+1978,猶,12,yuu,-
+1979,裕,12,yuu,-
+1980,遊,12,"yuu, [yu]",aso(bu)
+1981,雄,12,yuu,"o, osu"
+1982,誘,14,yuu,saso(u)
+1983,憂,15,yuu,"ure(eru), ure(i), u(i)"
+1984,融,16,yuu,-
+1985,優,17,yuu,"yasa(shii), sugu(reru)"
+1986,与,3,yo,ata(eru)
+1987,予,4,yo,-
+1988,余,7,yo,"ama(ru), ama(su)"
+1989,誉,13,yo,homa(re)
+1990,預,13,yo,"azu(keru), azu(karu)"
+1991,幼,5,yoo,osana(i)
+1992,用,5,yoo,mochi(iru)
+1993,羊,6,yoo,hitsuji
+1994,妖,7,yoo,aya(shii)
+1995,洋,9,yoo,-
+1996,要,9,yoo,"kaname, i(ru)"
+1997,容,10,yoo,-
+1998,庸,11,yoo,-
+1999,揚,12,yoo,"a(geru), a(garu)"
+2000,揺,12,yoo,"yu(reru), yu(ru), yu(ragu), yu(rugu), yu(suru), yu(saburu), yu(suburu)"
+2001,葉,12,yoo,ha
+2002,陽,12,yoo,-
+2003,溶,13,yoo,"to(keru), to(kasu), to(ku)"
+2004,腰,13,yoo,koshi
+2005,様,14,yoo,sama
+2006,瘍,14,yoo,-
+2007,踊,14,yoo,"odo(ru), odo(ri)"
+2008,窯,15,yoo,kama
+2009,養,15,yoo,yashina(u)
+2010,擁,16,yoo,-
+2011,謡,16,yoo,"utai, uta(u)"
+2012,曜,18,yoo,-
+2013,抑,7,yoku,osa(eru)
+2014,沃,7,yoku,-
+2015,浴,10,yoku,"a(biru), a(biseru)"
+2016,欲,11,yoku,"hos(suru), ho(shii)"
+2017,翌,11,yoku,-
+2018,翼,17,yoku,tsubasa
+2019,拉,8,ra,-
+2020,裸,13,ra,hadaka
+2021,羅,19,ra,-
+2022,来,7,rai,"ku(ru), kita(ru), kita(su)"
+2023,雷,13,rai,kaminari
+2024,頼,16,rai,"tano(mu), tano(moshii), tayo(ru)"
+2025,絡,12,raku,"kara(mu), kara(maru), kara(meru)"
+2026,落,12,raku,"o(chiru), o(tosu)"
+2027,酪,13,raku,-
+2028,辣,14,ratsu,-
+2029,乱,7,ran,"mida(reru), mida(su)"
+2030,卵,7,ran,tamago
+2031,覧,17,ran,-
+2032,濫,18,ran,-
+2033,藍,18,ran,ai
+2034,欄,20,ran,-
+2035,吏,6,ri,-
+2036,利,7,ri,ki(ku)
+2037,里,7,ri,sato
+2038,理,11,ri,-
+2039,痢,12,ri,-
+2040,裏,13,ri,ura
+2041,履,15,ri,ha(ku)
+2042,璃,15,ri,-
+2043,離,19,ri,"hana(reru), hana(su)"
+2044,陸,11,riku,-
+2045,立,5,"ritsu, [ryuu]","ta(tsu), ta(teru)"
+2046,律,9,"ritsu, [richi]",-
+2047,慄,13,ritsu,-
+2048,略,11,ryaku,-
+2049,柳,9,ryuu,yanagi
+2050,流,10,"ryuu, [ru]","naga(reru), naga(su)"
+2051,留,10,"ryuu, [ru]","to(meru), to(maru)"
+2052,竜,10,ryuu,tatsu
+2053,粒,11,ryuu,tsubu
+2054,隆,11,ryuu,-
+2055,硫,12,ryuu,-
+2056,侶,9,ryo,-
+2057,旅,10,ryo,tabi
+2058,虜,13,ryo,-
+2059,慮,15,ryo,-
+2060,了,2,ryoo,-
+2061,両,6,ryoo,-
+2062,良,7,ryoo,yo(i)
+2063,料,10,ryoo,-
+2064,涼,11,ryoo,"suzu(shii), suzu(mu)"
+2065,猟,11,ryoo,-
+2066,陵,11,ryoo,misasagi
+2067,量,12,ryoo,haka(ru)
+2068,僚,14,ryoo,-
+2069,領,14,ryoo,-
+2070,寮,15,ryoo,-
+2071,療,17,ryoo,-
+2072,瞭,17,ryoo,-
+2073,糧,18,"ryoo, [roo]",kate
+2074,力,2,"ryoku, 	riki",chikara
+2075,緑,14,"ryoku, [roku]",midori
+2076,林,8,rin,hayashi
+2077,厘,9,rin,-
+2078,倫,10,rin,-
+2079,輪,15,rin,wa
+2080,隣,16,rin,"tona(ru), tonari"
+2081,臨,18,rin,nozo(mu)
+2082,瑠,14,ru,-
+2083,涙,10,rui,namida
+2084,累,11,rui,-
+2085,塁,12,rui,-
+2086,類,18,rui,tagu(i)
+2087,令,5,rei,-
+2088,礼,5,"rei, 	rai",-
+2089,冷,7,rei,"tsume(tai), hi(eru), hi(ya), hi(yasu), hi(yakasu), sa(meru), sa(masu)"
+2090,励,7,rei,"hage(mu), hage(masu)"
+2091,戻,7,rei,"modo(ru), modo(su)"
+2092,例,8,rei,tato(eru)
+2093,鈴,13,"rei, 	rin",suzu
+2094,零,13,rei,-
+2095,霊,15,"rei, 	ryoo",tama
+2096,隷,16,rei,-
+2097,齢,17,rei,-
+2098,麗,19,rei,uruwa(shii)
+2099,暦,14,reki,koyomi
+2100,歴,14,reki,-
+2101,列,6,retsu,-
+2102,劣,6,retsu,oto(ru)
+2103,烈,10,retsu,-
+2104,裂,12,retsu,"sa(ku), sa(keru)"
+2105,恋,10,ren,"ko(u), koi, koi(shii)"
+2106,連,10,ren,"tsura(naru), tsura(neru), tsu(reru)"
+2107,廉,13,ren,-
+2108,練,14,ren,ne(ru)
+2109,錬,16,ren,-
+2110,呂,7,ro,-
+2111,炉,8,ro,-
+2112,賂,13,ro,-
+2113,路,13,ro,ji
+2114,露,21,"ro, [roo]",tsuyu
+2115,老,6,roo,"o(iru), fu(keru)"
+2116,労,7,roo,-
+2117,弄,7,roo,moteaso(bu)
+2118,郎,9,roo,-
+2119,朗,10,roo,hoga(raka)
+2120,浪,10,roo,-
+2121,廊,12,roo,-
+2122,楼,13,roo,-
+2123,漏,14,roo,"mo(ru), mo(reru), mo(rasu)"
+2124,籠,22,roo,"kago, ko(moru)"
+2125,六,4,roku,"mu, mu(tsu), mut(tsu), [mui]"
+2126,録,16,roku,-
+2127,麓,19,roku,fumoto
+2128,論,15,ron,-
+2129,和,8,"wa, [o]","yawa(ragu), yawa(rageru), nago(mu), nago(yaka)"
+2130,話,13,wa,"hana(su), hanashi"
+2131,賄,13,wai,makana(u)
+2132,脇,10,-,waki
+2133,惑,12,waku,mado(u)
+2134,枠,8,-,waku
+2135,湾,12,wan,-
+2136,腕,12,wan,ude
