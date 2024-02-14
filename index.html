@@ -6,7 +6,7 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <title>Kanji Search</title>
-    <link rel="stylesheet" href="styles.css">
+    <link rel="stylesheet" href="styles/styles.css">
 </head>
 
 <body>
@@ -26,9 +26,7 @@
         import init, { search_kanji_by_strokes } from './pkg/kanjisearch.js';
 
         async function run() {
-            console.log("Initializing WebAssembly module...");
             await init();
-            console.log("WebAssembly module initialized successfully.");
 
             const strokesInput = document.getElementById('strokes');
             const resultElement = document.getElementById('result');
@@ -40,8 +38,6 @@
 
             strokesInput.addEventListener('input', async () => {
                 const strokes = parseInt(strokesInput.value);
-                console.log('Strokes:', strokes);
-
                 try {
                     const result = await search_kanji_by_strokes(strokes);
                     resultElement.innerHTML = '';
