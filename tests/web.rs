@@ -1,19 +1,20 @@
+// web.rs
+#![cfg(target_arch = "wasm32")]
 
-
-use kanjisearch::search_kanji_by_strokes;
-use kanjisearch::KANJI_DATA;
-use wasm_bindgen_test::wasm_bindgen_test_configure;
-wasm_bindgen_test_configure!(run_in_browser);
-extern crate wasm_bindgen_test;
 use wasm_bindgen_test::*;
 use wasm_bindgen::prelude::*;
 use js_sys::Array;
 use serde_json::Value;
+use kanjisearch::search_kanji_by_strokes;
+use kanjisearch::KANJI_DATA;
 
-/*extern "C" {
+wasm_bindgen_test::wasm_bindgen_test_configure!(run_in_browser);
+
+#[wasm_bindgen]
+extern "C" {
     #[wasm_bindgen(js_namespace = console)]
     fn log(s: &str);
-}*/
+}
 
 #[wasm_bindgen]
 pub fn find_in_js_array(js_value: JsValue, value: JsValue) -> JsValue {
@@ -42,7 +43,7 @@ pub fn find_in_js_array(js_value: JsValue, value: JsValue) -> JsValue {
 }
 
 #[wasm_bindgen_test]
-fn test_search_kanji_by_strokes() {
+fn test_search_kanji_by_strokes4() {
     let results = search_kanji_by_strokes(4);
     //console_log!("results in tests4: {:?}", results);
     let string_result = find_in_js_array(results, JsValue::from("友"));
@@ -61,7 +62,7 @@ fn test_search_kanji_by_strokes_none() {
 #[wasm_bindgen_test]
 fn test_kanji_data_columns() {
     // Deserialize JSON string from kanjidata
-    let parsed_data: Vec<Value> = serde_json::from_str(KANJI_DATA).unwrap();
+    let parsed_data: Vec<Value> = serde_json::from_str(crate::KANJI_DATA).unwrap();
 
     // Assert that the first result in parsed data contains expected columns
     assert!(parsed_data.get(0).map_or(false, |item| {

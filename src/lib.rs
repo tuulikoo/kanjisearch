@@ -1,20 +1,19 @@
-
 use std::include_str;
-use serde::{Deserialize, Serialize};use wasm_bindgen::prelude::*;
+use serde::{Deserialize, Serialize};
+use wasm_bindgen::prelude::*;
 use serde_json;
 use serde_wasm_bindgen::to_value;
 
 
 
 
-
 pub static KANJI_DATA: &str = include_str!("kanjidata.json");
-#[wasm_bindgen]
+/*#[wasm_bindgen]
 extern "C" {
     #[wasm_bindgen(js_namespace = console)]
     fn log(s: &str);
 }
-/*macro_rules! console_log {
+macro_rules! console_log {
     ($($t:tt)*) => (log(&format_args!($($t)*).to_string()))
 }*/
 
